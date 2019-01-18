@@ -74,12 +74,12 @@ d3.json("data/stickynotes.json").then(function(data){
 
 
 		g.append("text")
-		.attr("class", "x axis-label")
-		.attr("x", width / 2)
-		.attr("y", height + 140)
-		.attr("font-size", "20px")
-		.attr("text-anchor", "middle")
-		.attr("Priority");	
+			.attr("class", "x axis-label")
+			.attr("x", width / 2)
+			.attr("y", height + 60)
+			.attr("font-size", "20px")
+			.attr("text-anchor", "middle")
+			.text("Priority");	
 
 		g.append("text")
 			.attr("class", "y axis-label")
@@ -88,6 +88,6 @@ d3.json("data/stickynotes.json").then(function(data){
 			.attr("font-size", "20px")
 			.attr("text-anchor", "middle")
 			.attr("transform", "rotate(-90)")
-			.attr("Difficulty");	
+			.text("Difficulty");	
 
 });
