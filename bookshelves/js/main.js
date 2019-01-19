@@ -3,8 +3,52 @@ var margin = { left: 100, right: 10, top: 50, bottom: 100};
 var width = 800 - margin.left - margin.right;
 var height = 500 - margin.top - margin.bottom;
 
-
-d3.json("data/literatureGap.json").then(function(data){
+d3.json("data/literatureGaps.json").then(function(data){
 	console.log(data);
 
+	var g = d3.select('#chart-area')
+		.append('svg')
+			.attr('width', 600)
+			.attr('height', 400);
+
+	var rectangles = g.selectAll("rect")
+		.data(data);
+
+	rectangles.enter()
+		.append('rect')
+			.attr('x', function(d, i) {
+				return (i * 120);
+			})
+			.attr('y', 25)
+			.attr('width', 120)
+			.attr('height', 150)
+			.attr('fill', 'transparent')
+			.attr('stroke', 'black')
+			.attr('stroke-width', '1px');
+
+
+	rectangles.enter()
+			.append('rect')
+				.attr('x', function(d, i) {
+					return (i * 120);
+				})
+				.attr('y', 25)
+				.attr('width', function(d) {
+					if (d.levelOfEvidence == 0) {
+						return 0;
+					}
+					if (d.levelOfEvidence == 1) {
+						return 40;
+					}
+					if (d.levelOfEvidence == 2) {
+						return (40 * 2);
+					}
+					if (d.levelOfEvidence == 3) {
+						return (40 * 3);
+					}
+					
+				})
+				.attr('height', 150)
+				.attr('fill', 'steelblue');
 });
+
