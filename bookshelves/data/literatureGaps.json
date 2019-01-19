@@ -1,0 +1,48 @@
+[
+	{
+		"impactArea": "Agency, Joy & Fulfillment",
+		"rationaleStatement": "...being able to understand and make technologies gives kids power and agency, sometimes through tacit knowledge",
+		"levelOfEvidence": "0",
+		"resources": "Pappert - Mindstorms",
+		"googleScholar": "Pappert, S. (1980). Mindstorms. In Children, Computers and Powerful Ideas. Harvester Press Paris, France."
+	},
+	{
+		"impactArea": "Agency, Joy & Fulfillment",
+		"rationaleStatement": "...creating or remixing new technologies like apps, websites or robots is fun!",
+		"levelOfEvidence": "2",
+		"resources": ["Mitch Resnick - Lifelong Kindegarten",
+						"Kafai - Youth, techology and DIY"],
+		"googleScholar": ["Resnick, M. (1998). Technologies for lifelong kindergarten. Educational technology research and development, 46(4), 43-55.",
+			"Kafai, Y. B., & Peppler, K. A. (2011). Youth, technology, and DIY: Developing participatory competencies in creative media production. Review of research in education, 35(1), 89-119."]
+	},
+	{
+		"impactArea": "Agency, Joy & Fulfillment",
+		"rationaleStatement": "...the process of tinkering and making can lead to wonder, discovery, enjoyment and strong personal connections.",
+		"levelOfEvidence": "3",
+		"resources": ["David Gauntlet- Making is Connecting",
+						"Ito - Hanging out, Messing around and Geeking around",
+						"Mitch Resnick - Lifelong Kindegarten",
+						"Kafai - Youth, techology and DIY"],
+		"googleScholar": ["Gauntlett, D. (2013). Making is connecting. John Wiley & Sons.",
+			"Ito, M., Baumer, S., Bittanti, M., Cody, R., Stephenson, B. H., Horst, H. A., ... & Perkel, D. (2009). Hanging out, messing around, and geeking out: Kids living and learning with new media. MIT press.",
+			"Resnick, M. (1998). Technologies for lifelong kindergarten. Educational technology research and development, 46(4), 43-55.",
+			"Kafai, Y. B., & Peppler, K. A. (2011). Youth, technology, and DIY: Developing participatory competencies in creative media production. Review of research in education, 35(1), 89-119."]
+	},
+	{
+		"impactArea": "Agency, Joy & Fulfillment",
+		"rationaleStatement": "...Tap into intrinsic motivation as a precursor to belongingness that can overcome self perception of efficacy",
+		"levelOfEvidence": "0",
+		"resources": "look into game-based learning",
+		"googleScholar": "NA"
+	},
+	{
+		"impactArea": "Agency, Joy & Fulfillment",
+		"rationaleStatement": "Computing provides youth with the ability to express themselves creatively and have voice. ",
+		"levelOfEvidence": "3",
+		"resources": ["look into game-based learning",
+			"Jenkins - Confronting the challenges of participatory cultures"],
+		"googleScholar": ["NA",
+			"Jenkins, H., Purushotma, R., Weigel, M., Clinton, K., & Robison, A. J. (2009). Confronting the challenges of participatory culture: Media education for the 21st century. Mit Press."]
+	}
+
+]
