@@ -1,6 +1,7 @@
 [
 	{
 		"impactArea": "Agency, Joy & Fulfillment",
+		"color": "#eebd4e",
 		"rationaleStatement": "...being able to understand and make technologies gives kids power and agency, sometimes through tacit knowledge",
 		"levelOfEvidence": "0",
 		"resources": "Pappert - Mindstorms",
@@ -8,6 +9,7 @@
 	},
 	{
 		"impactArea": "Agency, Joy & Fulfillment",
+		"color": "#eebd4e",
 		"rationaleStatement": "...creating or remixing new technologies like apps, websites or robots is fun!",
 		"levelOfEvidence": "2",
 		"resources": ["Mitch Resnick - Lifelong Kindegarten",
@@ -17,6 +19,7 @@
 	},
 	{
 		"impactArea": "Agency, Joy & Fulfillment",
+		"color": "#eebd4e",
 		"rationaleStatement": "...the process of tinkering and making can lead to wonder, discovery, enjoyment and strong personal connections.",
 		"levelOfEvidence": "3",
 		"resources": ["David Gauntlet- Making is Connecting",
@@ -30,6 +33,7 @@
 	},
 	{
 		"impactArea": "Agency, Joy & Fulfillment",
+		"color": "#eebd4e",
 		"rationaleStatement": "...Tap into intrinsic motivation as a precursor to belongingness that can overcome self perception of efficacy",
 		"levelOfEvidence": "0",
 		"resources": "look into game-based learning",
@@ -37,12 +41,326 @@
 	},
 	{
 		"impactArea": "Agency, Joy & Fulfillment",
+		"color": "#eebd4e",
 		"rationaleStatement": "Computing provides youth with the ability to express themselves creatively and have voice. ",
 		"levelOfEvidence": "3",
 		"resources": ["look into game-based learning",
 			"Jenkins - Confronting the challenges of participatory cultures"],
 		"googleScholar": ["NA",
 			"Jenkins, H., Purushotma, R., Weigel, M., Clinton, K., & Robison, A. J. (2009). Confronting the challenges of participatory culture: Media education for the 21st century. Mit Press."]
-	}
+	},
 
+	{
+		"impactArea": "Citizenship & Civic Engagement",
+		"color": "#55a98f",
+		"rationaleStatement": "...being a good citizen in the 21st century will include digital citizenship.",
+		"levelOfEvidence": "Na",
+		"resources": "NA",
+		"googleScholar": "NA"
+	},
+	{
+		"impactArea": "Citizenship & Civic Engagement",
+		"color": "#55a98f",
+		"rationaleStatement": "...informed citizens need to understand the basics of how the technological world works in order to contribute productively to society as a whole.",
+		"levelOfEvidence": "Na",
+		"resources": "NA",
+		"googleScholar": "NA"
+	},
+	{
+		"impactArea": "Citizenship & Civic Engagement",
+		"color": "#55a98f",
+		"rationaleStatement": "...not all tech will be in the best interest of our students-  they’ll need be able to think critically about technology platforms. It’s a “program or be programmed” world out there!",
+		"levelOfEvidence": "Na",
+		"resources": "NA",
+		"googleScholar": "NA"
+	},
+	{
+		"impactArea": "Citizenship & Civic Engagement",
+		"color": "#55a98f",
+		"rationaleStatement": "being a good community member in the 21st century will include critical engagement with a sense of digital responsibility.” (this is a revision of #4)",
+		"levelOfEvidence": "1",
+		"resources": ["Youth Radio’s work/research in the community",
+			"Angela Calabrese’s research (youth community issues)"],
+		"googleScholar": ["Chávez, V., & Soep, E. (2005). Youth radio and the pedagogy of collegiality. Harvard Educational Review, 75(4), 409-434.",
+			"Barton, A. C., & Tan, E. (2010). We be burnin'! Agency, identity, and science learning. The Journal of the Learning Sciences, 19(2), 187-229."]
+	},
+	{
+		"impactArea": "Citizenship & Civic Engagement",
+		"color": "#55a98f",
+		"rationaleStatement": "...informed community members need to understand the basics of how the technological world works in order to question and positively transform society as a whole.” (this is a revision of #5)",
+		"levelOfEvidence": "2",
+		"resources": ["Angela Calabrese’s research (youth community issues)",
+			"Digital Use Divas", "Aware of youth participatory research framework, but not specifically CS", "Positive Selves research"],
+		"googleScholar": ["Basu, S. J., & Barton, A. C. (2007). Developing a sustained interest in science among urban minority youth. Journal of Research in Science Teaching: The Official Journal of the National Association for Research in Science Teaching, 44(3), 466-489.",
+			"Lang, C., Craig, A., Fisher, J., & Forgasz, H. (2010, June). Creating digital divas: scaffolding perception change through secondary school and university alliances. In Proceedings of the fifteenth annual conference on Innovation and technology in computer science education (pp. 38-42). ACM.", "Cammarota, J., & Fine, M. (2008). Youth participatory action research. Revolutionizing education: Youth participatory action research in motion, 1-12.", 
+			"Markus, H., & Nurius, P. (1986). Possible selves. American psychologist, 41(9), 954."] 
+			
+	},
+	{
+		"impactArea": "Citizenship & Civic Engagement",
+		"color": "#55a98f",
+		"rationaleStatement": "“...not all tech will be in the best interest of our students-  computational thinking will enable all students to think critically about technology platforms. It’s a “program or be programmed” world out there!” (this is a revision of #6)",
+		"levelOfEvidence": "2",
+		"resources": ["Digital Use Divas",
+			"Positive Selves research"],
+		"googleScholar": ["Lang, C., Craig, A., Fisher, J., & Forgasz, H. (2010, June). Creating digital divas: scaffolding perception change through secondary school and university alliances. In Proceedings of the fifteenth annual conference on Innovation and technology in computer science education (pp. 38-42). ACM.",
+			"Markus, H., & Nurius, P. (1986). Possible selves. American psychologist, 41(9), 954."]
+	},
+	{
+		"impactArea": "Citizenship & Civic Engagement",
+		"color": "#55a98f",
+		"rationaleStatement": "Being a good citizen will involve understanding how technology works to influence the world",
+		"levelOfEvidence": "0",
+		"resources": "NA",
+		"googleScholar": "Hou, Y. (2016, February). Understand the design and implementation of civic technologies in public organizations. In Proceedings of the 19th ACM Conference on Computer Supported Cooperative Work and Social Computing Companion (pp. 147-150). ACM."
+	},
+	{
+		"impactArea": "Citizenship & Civic Engagement",
+		"color": "#55a98f",
+		"rationaleStatement": "Informed citizens need to understand how technology supports and inhibits participating in and XXXX our democracy",
+		"levelOfEvidence": "0",
+		"resources": "NA",
+		"googleScholar": "Rogers, Y. (2006, September). Moving on from weiser’s vision of calm computing: Engaging ubicomp experiences. In International conference on Ubiquitous computing (pp. 404-421). Springer, Berlin, Heidelberg."
+	},
+	{
+		"impactArea": "Citizenship & Civic Engagement",
+		"color": "#55a98f",
+		"rationaleStatement": "Being a good citizen is knowing when to use computing to impact your community",
+		"levelOfEvidence": "0",
+		"resources": "NA",
+		"googleScholar": ["Goncalves, J., Kostakos, V., Hosio, S., Karapanos, E., & Lyra, O. (2013, October). IncluCity: using contextual cues to raise awareness on environmental accessibility. In Proceedings of the 15th International ACM SIGACCESS Conference on Computers and Accessibility (p. 17). ACM.",
+			"Bennett, W. L., & Borning, A. (2017, June). Three Challenges for Politics and Technology Development: Organizational Complexity, Virtuality, and Design Values. In Proceedings of the 8th International Conference on Communities and Technologies (pp. 1-1). ACM.", 
+			"Hodgin, E. (2016). Educating Youth for Online Civic and Political Dialogue: A Conceptual Framework for the Digital Age. Journal of Digital and Media Literacy, 4(1–2)."]
+	},
+
+
+
+
+	{
+		"impactArea": "Competencies & Literacies",
+		"color": "#55a98f",
+		"rationaleStatement": "...it promotes 21st century skills like creativity, collaboration and communication.",
+		"levelOfEvidence": "2",
+		"resources": "NA",
+		"googleScholar": "NA"
+	},
+	{
+		"impactArea": "Competencies & Literacies",
+		"color": "#55a98f",
+		"rationaleStatement": "...computational thinking will be key no matter what career youth end up in.",
+		"levelOfEvidence": "1",
+		"resources": ["Computational Thinking Center at CMU", 
+			"Project GUTS", "NGGS: Next Generation Science Standards"],
+		"googleScholar": ["Cator, K., Angevine, C., Weisgrau, J., Waite, C., & Roschelle, J. (2007). Computational thinking for a computational world [White paper]. Retrieved December 6, 2018, from Digital Promise: https://digitalpromise.org/2017/12/06/advancing-computational-thinking-across-k-12-education/.", 
+			"Wing, J. M. (2006). Computational thinking. Communications of the ACM, 49(3), 33-35.", "Lee, I., Martin, F., Denner, J., Coulter, B., Allan, W., Erickson, J., ... & Werner, L. (2011). Computational thinking for youth in practice. Acm Inroads, 2(1), 32-37.", 
+			"National Research Council. (2013). Next generation science standards: For states, by states."]
+	},
+	{
+		"impactArea": "Competencies & Literacies",
+		"color": "#55a98f",
+		"rationaleStatement": "...computing provides youth with the ability to express themselves creatively and have voice.",
+		"levelOfEvidence": "2",
+		"resources": "NA",
+		"googleScholar": "NA"
+	},
+	{
+		"impactArea": "Competencies & Literacies",
+		"color": "#55a98f",
+		"rationaleStatement": "… learning to code or just learning about computer science can help ELL and / or students with disabilities learn the language better, learn to problem solve",
+		"levelOfEvidence": "1",
+		"resources": "PilaCS",
+		"googleScholar": "Papers in Language and Communication Studies"
+	},
+
+
+
+
+
+
+	{
+		"impactArea": "Economic & Workforce Development",
+		"color": "#5bb8f1",
+		"rationaleStatement": "...there is a shortage of engineers and programmers that needs to be filled. (about economic benefit to workforce)",
+		"levelOfEvidence": "3",
+		"resources": ["https://code.org/promote",
+			"Jobs reports"],
+		"googleScholar": ["Adolfie, L., Cuny, J., Peckham, J., Dumas, M., & Frehill, L. (2010). Department of Defense Science, Technology, Engineering, and Mathematics (STEM) Education Workshop on Computing Education. OFFICE OF THE DIRECTOR OF DEFENSE RESEARCH AND ENGINEERING WASHINGTON DC.",
+		"https://www.bls.gov/news.release/empsit.nr0.htm"]
+	},
+	{
+		"impactArea": "Economic & Workforce Development",
+		"color": "#5bb8f1",
+		"rationaleStatement": "...it will strengthen local economies by supporting a diverse technologically competent workforce. (about economic benefit to community)",
+		"levelOfEvidence": "1",
+		"resources": "NA",
+		"googleScholar": ["Luger, M. I. (1991). Technology in the garden: research parks and regional economic development. Univ of North Carolina Press."]
+	},
+	{
+		"impactArea": "Economic & Workforce Development",
+		"color": "#5bb8f1",
+		"rationaleStatement": "...it will strengthen local economies by supporting a diverse technologically competent workforce. (about economic benefit to community)",
+		"levelOfEvidence": "3",
+		"resources": ["UTEP group’s results (NYT, Elsa Villa knows some research)",
+			"Chetty et al."],
+		"googleScholar": ["Villa, E. Q., Rios, L. D., Stafford, S., & Gandara, G. (2001). K-16 partnerships: casting a broad net for filling the critical gaps in engineering. In Frontiers in Education Conference, 2001. 31st Annual (Vol. 2, pp. T4E-10). IEEE.", 
+			"Chetty, R., Hendren, N., Kline, P., Saez, E., & Turner, N. (2014). Is the United States still a land of opportunity? Recent trends in intergenerational mobility. American Economic Review, 104(5), 141-47."]
+	},
+	{
+		"impactArea": "Economic & Workforce Development",
+		"color": "#5bb8f1",
+		"rationaleStatement": "CSEd increase diversity in the workforce (related to ESJ)",
+		"levelOfEvidence": "1",
+		"resources": ["UT Austin group has seen more people involved in CS, but not increase in diversity",
+			"Higher number of girls and URMs taking AP CS courses, but not yet changes in demographics of workforce."],
+		"googleScholar": ["Conti, M. (2018). The Equity And Inclusion Of Underrepresented Populations In AP Computer Science Principles."]
+	},
+
+
+
+
+
+	{
+		"impactArea": "Equity & Social Justice",
+		"color": "#dd656a",
+		"rationaleStatement": "...there are major disparities in minorities’ and young women’s engagement in STEM fields and universal CSed is part of addressing that.",
+		"levelOfEvidence": "2",
+		"resources": ["NA"],
+		"googleScholar": ["NA"]
+	},
+	{
+		"impactArea": "Equity & Social Justice",
+		"color": "#dd656a",
+		"rationaleStatement": "...our technology is largely designed by economically, racially and socially privileged groups, and their biases and blind spots get embedded in our tech. CSed can help.",
+		"levelOfEvidence": "2",
+		"resources": ["NA"],
+		"googleScholar": ["NA"]
+	},
+	{
+		"impactArea": "Equity & Social Justice",
+		"color": "#dd656a",
+		"rationaleStatement": "...it will level the playing field and help close the digital divide and participation gap around tech for lower income youth.",
+		"levelOfEvidence": "NA",
+		"resources": ["NA"],
+		"googleScholar": ["NA"]
+	},
+	{
+		"impactArea": "Equity & Social Justice",
+		"color": "#dd656a",
+		"rationaleStatement": "…students with disabilities have significant barriers to engaging in technology. CSed is a part of removing those barriers.",
+		"levelOfEvidence": "1",
+		"resources": ["NA"],
+		"googleScholar": ["NA"]
+	},
+	{
+		"impactArea": "Equity & Social Justice",
+		"color": "#dd656a",
+		"rationaleStatement": "… the way CSed is currently taught it perpetuates how inequality and segregation is produced and reproduced in society. (CSed should be redesigned.)",
+		"levelOfEvidence": "NA",
+		"resources": ["NA"],
+		"googleScholar": ["NA"]
+	},
+	{
+		"impactArea": "Equity & Social Justice",
+		"color": "#dd656a",
+		"rationaleStatement": "Incorporating social justice and equity into CSed will motivate and empower some to continue in CS and make others more aware and empathic of the situations of all.",
+		"levelOfEvidence": "NA",
+		"resources": ["NA"],
+		"googleScholar": ["NA"]
+	},
+	{
+		"impactArea": "Equity & Social Justice",
+		"color": "#dd656a",
+		"rationaleStatement": "… it empowers students to address inequalities and segregation in their communities that are produced and reproduced in society.",
+		"levelOfEvidence": "NA",
+		"resources": ["NA"],
+		"googleScholar": ["NA"]
+	},
+
+
+
+
+
+
+	{
+		"impactArea": "School Reform & Improvement",
+		"color": "#e0914c",
+		"rationaleStatement": "Gatekeepers and policy makers and district leadership - there’s a disconnect",
+		"levelOfEvidence": "NA",
+		"resources": ["NA"],
+		"googleScholar": ["NA"]
+	},
+	{
+		"impactArea": "School Reform & Improvement",
+		"color": "#e0914c",
+		"rationaleStatement": "...teaching CS is a compelling new area that teachers are interested in and is a place where they can experiment with pedagogy.",
+		"levelOfEvidence": "NA",
+		"resources": ["NA"],
+		"googleScholar": ["NA"]
+	},
+	{
+		"impactArea": "School Reform & Improvement",
+		"color": "#e0914c",
+		"rationaleStatement": "...CSed often uses project-based approaches that can enhance school pedagogy and move away from sage on the stage approaches.",
+		"levelOfEvidence": "NA",
+		"resources": ["NA"],
+		"googleScholar": ["NA"]
+	},
+	{
+		"impactArea": "School Reform & Improvement",
+		"color": "#e0914c",
+		"rationaleStatement": "...practices from CS might enhance student learning of traditional academic disciplines (e.g. - introducing computer simulation of an ecosystem to learn concepts in ecology, or using CS concepts to learn algebra).",
+		"levelOfEvidence": "NA",
+		"resources": ["NA"],
+		"googleScholar": ["NA"]
+	},
+
+
+
+
+
+	{
+		"impactArea": "Technological, Social & Scientific Innovation",
+		"color": "#eb8db9",
+		"rationaleStatement": "How computer science merges with other fields (solutions for other field and how CS can impact that)--e.g. Blended learning",
+		"levelOfEvidence": "NA",
+		"resources": ["NA"],
+		"googleScholar": ["NA"]
+	},
+	{
+		"impactArea": "Technological, Social & Scientific Innovation",
+		"color": "#eb8db9",
+		"rationaleStatement": "Valuing TSS that’s already happening outside the formal system.",
+		"levelOfEvidence": "NA",
+		"resources": ["NA"],
+		"googleScholar": ["NA"]
+	},
+	{
+		"impactArea": "Technological, Social & Scientific Innovation",
+		"color": "#eb8db9",
+		"rationaleStatement": "...it’s important that people in local communities be equipped to address their own problems through having technologically fluent community members.",
+		"levelOfEvidence": "2",
+		"resources": ["NA"],
+		"googleScholar": ["NA"]
+	},
+	{
+		"impactArea": "Technological, Social & Scientific Innovation",
+		"color": "#eb8db9",
+		"rationaleStatement": "...the more people we have that understand computer science, the more innovations and new knowledge we can produce as a society.",
+		"levelOfEvidence": "2",
+		"resources": ["Digital humanities, computational X, genome example",
+			"Computer Science is Changing Everything", "Polyvore"],
+		"googleScholar": ["NA"]
+	},
+	{
+		"impactArea": "Technological, Social & Scientific Innovation",
+		"color": "#eb8db9",
+		"rationaleStatement": "...we need to produce scientific and technological innovations that solve ‘wicked’ problems such as climate change or ‘runaway’ technologies.",
+		"levelOfEvidence": "2",
+		"resources": ["External problems. How CS can provide technological solutions.", 
+			"Data Science for Social Good", "Developing hands-on activities linking plankton and computational thinking", 
+			"Nichole Pinkard", "Hidden Genius Project", "Iridescent’s Technovation Challenge", "Mobile CSP", "Competition as Pedagogy", "Conrad Foundation"],
+		"googleScholar": ["https://dssg.uchicago.edu/projects/", "https://qubeshub.org/qubesresources/publications/637/2", "http://digitalyouthnetwork.org/staff/nichole-pinkard/", 
+			"http://www.hiddengeniusproject.org/", "https://technovationchallenge.org/", "https://course.mobilecsp.org/mobilecsp/course?use_last_location=true", "https://solve.mit.edu/challenges", 
+			"https://www.conradchallenge.org/our-impact/"]
+	},
 ]
