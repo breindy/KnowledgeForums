@@ -56,7 +56,7 @@ d3.json("data/stickynotes.json").then(function(data){
 	rectangles.enter()
 		.append("rect")
 			.attr("class", "postIt")
-			.on("click", tip.show)
+			.on("mouseover", tip.show)
 			.on("mouseout", tip.hide)
 			.attr("x", function(d){
 				return x(d.priority);
@@ -70,8 +70,6 @@ d3.json("data/stickynotes.json").then(function(data){
 			.attr("fill", function(d){
 				return d.color;
 			});
-
-
 
 		g.append("text")
 			.attr("class", "x axis-label")
