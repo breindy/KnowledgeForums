@@ -51,7 +51,7 @@
 	},
 
 	{
-		"impactArea": "Citizenship & Civic Engagement",
+		"impactArea": "Citizenship and Civic Engagement",
 		"color": "#55a98f",
 		"rationaleStatement": "...being a good citizen in the 21st century will include digital citizenship.",
 		"levelOfEvidence": "Na",
@@ -59,7 +59,7 @@
 		"googleScholar": "NA"
 	},
 	{
-		"impactArea": "Citizenship & Civic Engagement",
+		"impactArea": "Citizenship and Civic Engagement",
 		"color": "#55a98f",
 		"rationaleStatement": "...informed citizens need to understand the basics of how the technological world works in order to contribute productively to society as a whole.",
 		"levelOfEvidence": "Na",
@@ -67,7 +67,7 @@
 		"googleScholar": "NA"
 	},
 	{
-		"impactArea": "Citizenship & Civic Engagement",
+		"impactArea": "Citizenship and Civic Engagement",
 		"color": "#55a98f",
 		"rationaleStatement": "...not all tech will be in the best interest of our students-  they’ll need be able to think critically about technology platforms. It’s a “program or be programmed” world out there!",
 		"levelOfEvidence": "Na",
@@ -75,7 +75,7 @@
 		"googleScholar": "NA"
 	},
 	{
-		"impactArea": "Citizenship & Civic Engagement",
+		"impactArea": "Citizenship and Civic Engagement",
 		"color": "#55a98f",
 		"rationaleStatement": "being a good community member in the 21st century will include critical engagement with a sense of digital responsibility.” (this is a revision of #4)",
 		"levelOfEvidence": "1",
@@ -85,7 +85,7 @@
 			"Barton, A. C., & Tan, E. (2010). We be burnin'! Agency, identity, and science learning. The Journal of the Learning Sciences, 19(2), 187-229."]
 	},
 	{
-		"impactArea": "Citizenship & Civic Engagement",
+		"impactArea": "Citizenship and Civic Engagement",
 		"color": "#55a98f",
 		"rationaleStatement": "...informed community members need to understand the basics of how the technological world works in order to question and positively transform society as a whole.” (this is a revision of #5)",
 		"levelOfEvidence": "2",
@@ -97,7 +97,7 @@
 			
 	},
 	{
-		"impactArea": "Citizenship & Civic Engagement",
+		"impactArea": "Citizenship and Civic Engagement",
 		"color": "#55a98f",
 		"rationaleStatement": "“...not all tech will be in the best interest of our students-  computational thinking will enable all students to think critically about technology platforms. It’s a “program or be programmed” world out there!” (this is a revision of #6)",
 		"levelOfEvidence": "2",
@@ -107,7 +107,7 @@
 			"Markus, H., & Nurius, P. (1986). Possible selves. American psychologist, 41(9), 954."]
 	},
 	{
-		"impactArea": "Citizenship & Civic Engagement",
+		"impactArea": "Citizenship and Civic Engagement",
 		"color": "#55a98f",
 		"rationaleStatement": "Being a good citizen will involve understanding how technology works to influence the world",
 		"levelOfEvidence": "0",
@@ -115,7 +115,7 @@
 		"googleScholar": "Hou, Y. (2016, February). Understand the design and implementation of civic technologies in public organizations. In Proceedings of the 19th ACM Conference on Computer Supported Cooperative Work and Social Computing Companion (pp. 147-150). ACM."
 	},
 	{
-		"impactArea": "Citizenship & Civic Engagement",
+		"impactArea": "Citizenship and Civic Engagement",
 		"color": "#55a98f",
 		"rationaleStatement": "Informed citizens need to understand how technology supports and inhibits participating in and XXXX our democracy",
 		"levelOfEvidence": "0",
@@ -123,7 +123,7 @@
 		"googleScholar": "Rogers, Y. (2006, September). Moving on from weiser’s vision of calm computing: Engaging ubicomp experiences. In International conference on Ubiquitous computing (pp. 404-421). Springer, Berlin, Heidelberg."
 	},
 	{
-		"impactArea": "Citizenship & Civic Engagement",
+		"impactArea": "Citizenship and Civic Engagement",
 		"color": "#55a98f",
 		"rationaleStatement": "Being a good citizen is knowing when to use computing to impact your community",
 		"levelOfEvidence": "0",
@@ -132,9 +132,6 @@
 			"Bennett, W. L., & Borning, A. (2017, June). Three Challenges for Politics and Technology Development: Organizational Complexity, Virtuality, and Design Values. In Proceedings of the 8th International Conference on Communities and Technologies (pp. 1-1). ACM.", 
 			"Hodgin, E. (2016). Educating Youth for Online Civic and Political Dialogue: A Conceptual Framework for the Digital Age. Journal of Digital and Media Literacy, 4(1–2)."]
 	},
-
-
-
 
 	{
 		"impactArea": "Competencies & Literacies",
@@ -362,5 +359,5 @@
 		"googleScholar": ["https://dssg.uchicago.edu/projects/", "https://qubeshub.org/qubesresources/publications/637/2", "http://digitalyouthnetwork.org/staff/nichole-pinkard/", 
 			"http://www.hiddengeniusproject.org/", "https://technovationchallenge.org/", "https://course.mobilecsp.org/mobilecsp/course?use_last_location=true", "https://solve.mit.edu/challenges", 
 			"https://www.conradchallenge.org/our-impact/"]
-	},
+	}
 ]

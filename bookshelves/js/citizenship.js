@@ -9,12 +9,14 @@ d3.json("data/rppforcs.json").then(function(data){
 	var tip = d3.tip()
 		.attr('class', 'd3-tip')
 			.html(function(d) {
-				var text = "<p>" + d.rationaleStatement + "</p><br>";
-				text += "<p>Level of evidence: " + d.levelOfEvidence + "</p><br>";
-				return text;		
+                while (d.impactArea == "Citizenship and Civic Engagement") {
+                    var text = "<p>" + d.rationaleStatement + "</p><br>";
+				    text += "<p>Level of evidence: " + d.levelOfEvidence + "</p><br>";
+				    return text;
+                }	
 			})
 	
-	var g = d3.select('#agency')
+	var g = d3.select('#citizenship')
 		.append('svg')
 			.attr('width', 600)
 			.attr('height', 250);
