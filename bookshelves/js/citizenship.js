@@ -20,7 +20,7 @@ d3.json("data/rppforcs.json").then(function(data){
 	
 	var g = d3.select('#citizenship')
 		.append('svg')
-			.attr('width', 600)
+			.attr('width', 1080)
 			.attr('height', 250);
 	
 	g.call(tip);
