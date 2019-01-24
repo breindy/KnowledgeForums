@@ -4,7 +4,9 @@ var width = 800 - margin.left - margin.right;
 var height = 300 - margin.top - margin.bottom;
 
 d3.json("data/rppforcs.json").then(function(data){
-	console.log(data);
+	console.log(data.filter(function(d){
+		return d.impactArea === 'Citizenship and Civic Engagement';
+	}));
 
 	var tip = d3.tip()
 		.attr('class', 'd3-tip')
@@ -24,7 +26,9 @@ d3.json("data/rppforcs.json").then(function(data){
 	g.call(tip);
 
 	var rectangles = g.selectAll("rect")
-		.data(data);
+		.data(data.filter(function(d){
+			return d.impactArea === 'Citizenship and Civic Engagement';
+		}));
 
 	rectangles.enter()
 		.append('rect')
