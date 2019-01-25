@@ -63,7 +63,7 @@ d3.json("data/rppforcs.json").then(function(data){
 					if (d.levelOfEvidence == 0) {
 						return 'transparent';
 					}
-					else { return 'steelblue'; }
+					else { return d.color; }
 
 				})
 				.on("mouseover", tip.show)

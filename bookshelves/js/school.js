@@ -5,21 +5,21 @@ var height = 300 - margin.top - margin.bottom;
 
 d3.json("data/rppforcs.json").then(function(data){
 	data = data.filter(function(d){
-		return d.impactArea == 'Citizenship and Civic Engagement';
+		return d.impactArea == 'School Reform and Improvement';
 	});
 	console.log(data.length);
 
 	var tip = d3.tip()
 		.attr('class', 'd3-tip')
 			.html(function(d) {
-                while (d.impactArea == "Citizenship and Civic Engagement") {
+                while (d.impactArea == 'School Reform and Improvement') {
                     var text = "<p>" + d.rationaleStatement + "</p><br>";
 				    text += "<p>Level of evidence: " + d.levelOfEvidence + "</p><br>";
 				    return text;
                 }	
 			})
 	
-	var g = d3.select('#citizenship')
+	var g = d3.select('#school')
 		.append('svg')
 			.attr('width', data.length * 120)
 			.attr('height', 250);
@@ -28,7 +28,7 @@ d3.json("data/rppforcs.json").then(function(data){
 
 	var rectangles = g.selectAll("rect")
 		.data(data.filter(function(d){
-			return d.impactArea === 'Citizenship and Civic Engagement';
+			return d.impactArea === 'School Reform and Improvement';
 		}));
 
 	rectangles.enter()
