@@ -75,6 +75,15 @@ d3.json("data/rppforcs.json").then(function(data){
 
 				})
 				.on("mouseover", tip.show)
-				.on("mouseout", tip.hide);
+				.on("mouseout", tip.hide)
+
+				g.append("text")
+				.attr("class", "y axis-label")
+				.attr("x", -(height / 2))
+				.attr("y", -60)
+				.attr("font-size", "20px")
+				.attr("text-anchor", "middle")
+				.attr("transform", "rotate(90)")
+				.text("Difficulty");
 });
 

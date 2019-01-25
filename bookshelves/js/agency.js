@@ -67,6 +67,22 @@ d3.json("data/rppforcs.json").then(function(data){
 
 				})
 				.on("mouseover", tip.show)
-				.on("mouseout", tip.hide);
+				.on("mouseout", tip.hide)
+
+				g.append("text")
+					.attr("x", (100))
+					.attr("y", -(160))
+					.attr("font-size", "16px")
+					.attr("text-anchor", "middle")
+					.attr("transform", "rotate(90)")
+					.text("AJF")
+
+				g.append("text")
+					.attr("x", (300))
+					.attr("y", -(160))
+					.attr("font-size", "16px")
+					.attr("text-anchor", "middle")
+					.attr("transform", "rotate(90)")
+					.text("AJF");
 });
 
