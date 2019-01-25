@@ -160,7 +160,7 @@
 
   {
     "impactArea": "Competencies and Literacies",
-    "color": "#55a98f",
+    "color": "#8E80BA",
     "rationaleStatement": "...it promotes 21st century skills like creativity, collaboration and communication.",
     "levelOfEvidence": "2",
     "resources": "NA",
@@ -168,7 +168,7 @@
   },
   {
     "impactArea": "Competencies and Literacies",
-    "color": "#55a98f",
+    "color": "#8E80BA",
     "rationaleStatement": "...computational thinking will be key no matter what career youth end up in.",
     "levelOfEvidence": "1",
     "resources": [
@@ -185,7 +185,7 @@
   },
   {
     "impactArea": "Competencies and Literacies",
-    "color": "#55a98f",
+    "color": "#8E80BA",
     "rationaleStatement": "...computing provides youth with the ability to express themselves creatively and have voice.",
     "levelOfEvidence": "2",
     "resources": "NA",
@@ -193,7 +193,7 @@
   },
   {
     "impactArea": "Competencies and Literacies",
-    "color": "#55a98f",
+    "color": "#8E80BA",
     "rationaleStatement": "… learning to code or just learning about computer science can help ELL and / or students with disabilities learn the language better, learn to problem solve",
     "levelOfEvidence": "1",
     "resources": "PilaCS",
@@ -269,7 +269,7 @@
     "impactArea": "Equity and Social Justice",
     "color": "#dd656a",
     "rationaleStatement": "...it will level the playing field and help close the digital divide and participation gap around tech for lower income youth.",
-    "levelOfEvidence": "NA",
+    "levelOfEvidence": "0",
     "resources": ["NA"],
     "googleScholar": ["NA"]
   },
@@ -285,7 +285,7 @@
     "impactArea": "Equity and Social Justice",
     "color": "#dd656a",
     "rationaleStatement": "… the way CSed is currently taught it perpetuates how inequality and segregation is produced and reproduced in society. (CSed should be redesigned.)",
-    "levelOfEvidence": "NA",
+    "levelOfEvidence": "0",
     "resources": ["NA"],
     "googleScholar": ["NA"]
   },
@@ -293,7 +293,7 @@
     "impactArea": "Equity and Social Justice",
     "color": "#dd656a",
     "rationaleStatement": "Incorporating social justice and equity into CSed will motivate and empower some to continue in CS and make others more aware and empathic of the situations of all.",
-    "levelOfEvidence": "NA",
+    "levelOfEvidence": "0",
     "resources": ["NA"],
     "googleScholar": ["NA"]
   },
@@ -301,7 +301,7 @@
     "impactArea": "Equity and Social Justice",
     "color": "#dd656a",
     "rationaleStatement": "… it empowers students to address inequalities and segregation in their communities that are produced and reproduced in society.",
-    "levelOfEvidence": "NA",
+    "levelOfEvidence": "0",
     "resources": ["NA"],
     "googleScholar": ["NA"]
   },
@@ -310,7 +310,7 @@
     "impactArea": "School Reform and Improvement",
     "color": "#e0914c",
     "rationaleStatement": "Gatekeepers and policy makers and district leadership - there’s a disconnect",
-    "levelOfEvidence": "NA",
+    "levelOfEvidence": "0",
     "resources": ["NA"],
     "googleScholar": ["NA"]
   },
@@ -318,7 +318,7 @@
     "impactArea": "School Reform and Improvement",
     "color": "#e0914c",
     "rationaleStatement": "...teaching CS is a compelling new area that teachers are interested in and is a place where they can experiment with pedagogy.",
-    "levelOfEvidence": "NA",
+    "levelOfEvidence": "0",
     "resources": ["NA"],
     "googleScholar": ["NA"]
   },
@@ -326,7 +326,7 @@
     "impactArea": "School Reform and Improvement",
     "color": "#e0914c",
     "rationaleStatement": "...CSed often uses project-based approaches that can enhance school pedagogy and move away from sage on the stage approaches.",
-    "levelOfEvidence": "NA",
+    "levelOfEvidence": "0",
     "resources": ["NA"],
     "googleScholar": ["NA"]
   },
@@ -334,7 +334,7 @@
     "impactArea": "School Reform and Improvement",
     "color": "#e0914c",
     "rationaleStatement": "...practices from CS might enhance student learning of traditional academic disciplines (e.g. - introducing computer simulation of an ecosystem to learn concepts in ecology, or using CS concepts to learn algebra).",
-    "levelOfEvidence": "NA",
+    "levelOfEvidence": "0",
     "resources": ["NA"],
     "googleScholar": ["NA"]
   },
@@ -343,7 +343,7 @@
     "impactArea": "Technological, Social and Scientific Innovation",
     "color": "#eb8db9",
     "rationaleStatement": "How computer science merges with other fields (solutions for other field and how CS can impact that)--e.g. Blended learning",
-    "levelOfEvidence": "NA",
+    "levelOfEvidence": "0",
     "resources": ["NA"],
     "googleScholar": ["NA"]
   },
@@ -351,7 +351,7 @@
     "impactArea": "Technological, Social and Scientific Innovation",
     "color": "#eb8db9",
     "rationaleStatement": "Valuing TSS that’s already happening outside the formal system.",
-    "levelOfEvidence": "NA",
+    "levelOfEvidence": "0",
     "resources": ["NA"],
     "googleScholar": ["NA"]
   },

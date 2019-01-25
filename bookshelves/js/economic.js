@@ -7,6 +7,7 @@ d3.json("data/rppforcs.json").then(function(data){
 	data = data.filter(function(d){
 		return d.impactArea == 'Economic and Workforce Development';
 	});
+	console.log('economic length');
 	console.log(data.length);
 
 	var tip = d3.tip()
