@@ -61,7 +61,7 @@ d3.json("data/rppforcs.json").then(function(data){
 						return (40 * 2);
 					}
 					if (d.levelOfEvidence == 3) {
-						return (40 * 3);
+						return (40 * 3 - 2);
 					}
 					
 				})
