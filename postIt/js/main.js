@@ -1,7 +1,7 @@
 var margin = { left: 100, right: 10, top: 50, bottom: 100};
 
-var width = 800 - margin.left - margin.right;
-var height = 500 - margin.top - margin.bottom;
+var width = 1000 - margin.left - margin.right;
+var height = 600 - margin.top - margin.bottom;
 
 
 d3.json("data/stickynotes.json").then(function(data){
@@ -37,7 +37,7 @@ d3.json("data/stickynotes.json").then(function(data){
 			.ticks(0);
 		
 		g.append("g")
-			.attr("class", "x axis")
+			.attr("class", "x-axis")
 			.attr("transform", "translate(0, " + height + ")")
 			.call(xAxis);
 	
@@ -48,6 +48,7 @@ d3.json("data/stickynotes.json").then(function(data){
 			.attr("class", "y-axis")
 			.call(yAxis);
 	
+		
 		var rectangles = g.selectAll("rect")
 							.data(data);
 	
@@ -57,17 +58,20 @@ d3.json("data/stickynotes.json").then(function(data){
 				.on("mouseover", tip.show)
 				.on("mouseout", tip.hide)
 				.attr("x", function(d){
-					return x(d.difficulty);
+					return x(d.difficulty + Math.random() - .5);
 				})
+				
 	
 				.attr("y", function(d){
-					return y(d.priority);
+					return y(d.priority + Math.random() + .5);
 				})
-				.attr("width", 25)
-				.attr("height", 25)
+				.attr("width", 40)
+				.attr("height", 40)
 				.attr("fill", function(d){
 					return d.color;
-				});
+				})
+				.attr("stroke", "white")
+				.attr("stroke-width", "2px");
 	
 			g.append("text")
 				.attr("class", "x axis-label")
