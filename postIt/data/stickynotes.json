@@ -526,10 +526,6 @@
 		"difficulty": 0,
 		"postItText": "Who are the A students? The C students? The D, F students?"
 	},
-
-
-
-
 	{
 		"impactArea": "TSS",
 		"impactName": "Technological, Social & Scientific Innovation",
@@ -537,34 +533,7 @@
 		"category": "People and Students",
 		"priority": 4,
 		"difficulty": 3,
-		"postItText": "% increase of Latinx/Black/Native youth participating/applying for competitions and awards in CS (i.e. NCWIT, First, etc.)"
-	},
-	{
-		"impactArea": "TSS",
-		"impactName": "Technological, Social & Scientific Innovation",
-		"color": "#eb8db9",
-		"category": "People and Students",
-		"priority": 4,
-		"difficulty": 3,
-		"postItText": "% increase of girls participating in entrepreneurship/innovation competitions"
-	},
-	{
-		"impactArea": "TSS",
-		"impactName": "Technological, Social & Scientific Innovation",
-		"color": "#eb8db9",
-		"category": "People and Students",
-		"priority": 4,
-		"difficulty": 3,
-		"postItText": "Clear teacher pathways are identified for High School educators; certification process available across states"
-	},
-	{
-		"impactArea": "TSS",
-		"impactName": "Technological, Social & Scientific Innovation",
-		"color": "#eb8db9",
-		"category": "People and Students",
-		"priority": 4,
-		"difficulty": 3,
-		"postItText": "Heat map of people with CS skills (does it span communities)"
+		"postItText": ["% increase of Latinx/Black/Native youth participating/applying for competitions and awards in CS (i.e. NCWIT, First, etc.)", "% increase of girls participating in entrepreneurship/innovation competitions", "Clear teacher pathways are identified for High School educators; certification process available across states", "Heat map of people with CS skills (does it span communities)"]
 	},
 	{
 		"impactArea": "TSS",
@@ -573,35 +542,9 @@
 		"category": "Industry",
 		"priority": 4,
 		"difficulty": 1,
-		"postItText": "Increase in # of companies addressing wicked problems"
+		"postItText": ["Increase in # of companies addressing wicked problems", "Concept map of wicked problems & potential solutions", "Number of CS patents to solve CS problems", "Number of new innovations produced with CS"]
 	},
-	{
-		"impactArea": "TSS",
-		"impactName": "Technological, Social & Scientific Innovation",
-		"color": "#eb8db9",
-		"category": "Industry",
-		"priority": 4,
-		"difficulty": 1,
-		"postItText": "Concept map of wicked problems & potential solutions"
-	},
-	{
-		"impactArea": "TSS",
-		"impactName": "Technological, Social & Scientific Innovation",
-		"color": "#eb8db9",
-		"category": "Industry",
-		"priority": 4,
-		"difficulty": 1,
-		"postItText": "Number of CS patents to solve CS problems"
-	},
-	{
-		"impactArea": "TSS",
-		"impactName": "Technological, Social & Scientific Innovation",
-		"color": "#eb8db9",
-		"category": "Industry",
-		"priority": 4,
-		"difficulty": 1,
-		"postItText": "Number of new innovations produced with CS"
-	},
+
 	{
 		"impactArea": "TSS",
 		"impactName": "Technological, Social & Scientific Innovation",
@@ -609,25 +552,7 @@
 		"category": "Curriculum",
 		"priority": 2,
 		"difficulty": 2,
-		"postItText": "Increase in the number of CS+X programs across all major disciplinary areas (STEM, humanities, social sciences)"
-	},
-	{
-		"impactArea": "TSS",
-		"impactName": "Technological, Social & Scientific Innovation",
-		"color": "#eb8db9",
-		"category": "Curriculum",
-		"priority": 2,
-		"difficulty": 2,
-		"postItText": "Increase in the number of curricula that integrate CS and other disciplines"
-	},
-	{
-		"impactArea": "TSS",
-		"impactName": "Technological, Social & Scientific Innovation",
-		"color": "#eb8db9",
-		"category": "Curriculum",
-		"priority": 2,
-		"difficulty": 2,
-		"postItText": "All K-5 teachers receive CS or CT education via pre-service courses within social justice education framework"
+		"postItText": ["Increase in the number of CS+X programs across all major disciplinary areas (STEM, humanities, social sciences)", "Increase in the number of curricula that integrate CS and other disciplines", "All K-5 teachers receive CS or CT education via pre-service courses within social justice education framework"]
 	},
 	{
 		"impactArea": "TSS",
@@ -636,38 +561,7 @@
 		"category": "Community",
 		"priority": 1,
 		"difficulty": 4,
-		"postItText": "Number of (or %) communities impacted by a locally CS-solved problem & represented --> which ones"
-	},
-	{
-		"impactArea": "TSS",
-		"impactName": "Technological, Social & Scientific Innovation",
-		"color": "#eb8db9",
-		"category": "Community",
-		"priority": 1,
-		"difficulty": 4,
-		"postItText": "CS-related projects that are helping to solve a community-identified problem"
-	},
-
-
-
-
-	{
-		"impactArea": "ESJ",
-		"impactName": "Equity & Social Justice",
-		"color": "#dd656a",
-		"category": "Faculty Representation",
-		"priority": 4,
-		"difficulty": 5,
-		"postItText": "More teachers of color in CS education"
-	},
-	{
-		"impactArea": "ESJ",
-		"impactName": "Equity & Social Justice",
-		"color": "#dd656a",
-		"category": "Faculty Representation",
-		"priority": 4,
-		"difficulty": 5,
-		"postItText": "Does faculty reflect community?"
+		"postItText": ["CS-related projects that are helping to solve a community-identified problem", "Number of (or %) communities impacted by a locally CS-solved problem & represented --> which ones"]
 	},
 	{
 		"impactArea": "ESJ",
@@ -676,34 +570,7 @@
 		"category": "Student Representation",
 		"priority": 4,
 		"difficulty": 5,
-		"postItText": "Are students with disabilities included in CS classes?"
-	},
-	{
-		"impactArea": "ESJ",
-		"impactName": "Equity & Social Justice",
-		"color": "#dd656a",
-		"category": "Student Representation",
-		"priority": 4,
-		"difficulty": 5,
-		"postItText": "Proportion of CS students enrolled in CS courses who are female, low income, URM, disabled (participation)"
-	},
-	{
-		"impactArea": "ESJ",
-		"impactName": "Equity & Social Justice",
-		"color": "#dd656a",
-		"category": "Student Representation",
-		"priority": 4,
-		"difficulty": 5,
-		"postItText": "Does representation in the classroom = representation in the community?"
-	},
-	{
-		"impactArea": "ESJ",
-		"impactName": "Equity & Social Justice",
-		"color": "#dd656a",
-		"category": "Student Representation",
-		"priority": 4,
-		"difficulty": 5,
-		"postItText": "Indicators of student engagement, identity, agency, especially underrepresented students"
+		"postItText": ["More teachers of color in CS education", "Does faculty reflect community?", "Are students with disabilities included in CS classes?", "Proportion of CS students enrolled in CS courses who are female, low income, URM, disabled (participation)", "Does representation in the classroom = representation in the community?", "Indicators of student engagement, identity, agency, especially underrepresented students"]
 	},
 	{
 		"impactArea": "ESJ",
@@ -712,34 +579,7 @@
 		"category": "PD",
 		"priority": 3,
 		"difficulty": 1,
-		"postItText": "Increasing teacher participation"
-	},
-	{
-		"impactArea": "ESJ",
-		"impactName": "Equity & Social Justice",
-		"color": "#dd656a",
-		"category": "PD",
-		"priority": 3,
-		"difficulty": 1,
-		"postItText": "# of faculty who attend PD on incorporating social justice in the curriculum"
-	},
-	{
-		"impactArea": "ESJ",
-		"impactName": "Equity & Social Justice",
-		"color": "#dd656a",
-		"category": "PD",
-		"priority": 3,
-		"difficulty": 1,
-		"postItText": "Every CS PD work with teachers around equity, biases"
-	},
-	{
-		"impactArea": "ESJ",
-		"impactName": "Equity & Social Justice",
-		"color": "#dd656a",
-		"category": "PD",
-		"priority": 3,
-		"difficulty": 1,
-		"postItText": "Proportion of CS teachers in low income, high-URM population areas who are qualified to teach CS (quality)"
+		"postItText": ["Increasing teacher participation", "Every CS PD work with teachers around equity, biases", "Proportion of CS teachers in low income, high-URM population areas who are qualified to teach CS (quality)", "# of faculty who attend PD on incorporating social justice in the curriculum"]
 	},
 	{
 		"impactArea": "ESJ",
@@ -748,61 +588,7 @@
 		"category": "Curriculum",
 		"priority": 2,
 		"difficulty": 3,
-		"postItText": "Use of curriculum that includes inquiry-based units learning about social justice"
-	},
-	{
-		"impactArea": "ESJ",
-		"impactName": "Equity & Social Justice",
-		"color": "#dd656a",
-		"category": "Curriculum",
-		"priority": 2,
-		"difficulty": 3,
-		"postItText": "In teaching programming are accessible tools used?"
-	},
-	{
-		"impactArea": "ESJ",
-		"impactName": "Equity & Social Justice",
-		"color": "#dd656a",
-		"category": "Curriculum",
-		"priority": 2,
-		"difficulty": 3,
-		"postItText": "Does web design/dev course include accessible design?"
-	},
-	{
-		"impactArea": "ESJ",
-		"impactName": "Equity & Social Justice",
-		"color": "#dd656a",
-		"category": "Curriculum",
-		"priority": 2,
-		"difficulty": 3,
-		"postItText": "Are ethics, equity, and cultural sensitivity in the curriculum?"
-	},
-	{
-		"impactArea": "ESJ",
-		"impactName": "Equity & Social Justice",
-		"color": "#dd656a",
-		"category": "Curriculum",
-		"priority": 2,
-		"difficulty": 3,
-		"postItText": "Changing the way we develop CS curriculum making it more adaptable based on student feedback"
-	},
-	{
-		"impactArea": "ESJ",
-		"impactName": "Equity & Social Justice",
-		"color": "#dd656a",
-		"category": "Curriculum",
-		"priority": 2,
-		"difficulty": 3,
-		"postItText": "Pathways in ED: CTE vs. Academic"
-	},
-	{
-		"impactArea": "ESJ",
-		"impactName": "Equity & Social Justice",
-		"color": "#dd656a",
-		"category": "Curriculum",
-		"priority": 2,
-		"difficulty": 3,
-		"postItText": "Simplifying language on how we communicate about CS education to the uninformed"
+		"postItText": ["Use of curriculum that includes inquiry-based units learning about social justice", "In teaching programming are accessible tools used?", "Does web design/dev course include accessible design?", "Pathways in ED: CTE vs. Academic", "Simplifying language on how we communicate about CS education to the uninformed", "Changing the way we develop CS curriculum making it more adaptable based on student feedback", "Are ethics, equity, and cultural sensitivity in the curriculum?"]
 	},
 	{
 		"impactArea": "ESJ",
@@ -811,34 +597,7 @@
 		"category": "Community",
 		"priority": 5,
 		"difficulty": 2,
-		"postItText": "Proportion of schools that offer CS that are in areas of low income, rural, high URM population (access)"
-	},
-	{
-		"impactArea": "ESJ",
-		"impactName": "Equity & Social Justice",
-		"color": "#dd656a",
-		"category": "Community",
-		"priority": 5,
-		"difficulty": 2,
-		"postItText": "CS projects in community?"
-	},
-	{
-		"impactArea": "ESJ",
-		"impactName": "Equity & Social Justice",
-		"color": "#dd656a",
-		"category": "Community",
-		"priority": 5,
-		"difficulty": 2,
-		"postItText": "Are CS projects reflecting the needs of the community?"
-	},
-	{
-		"impactArea": "ESJ",
-		"impactName": "Equity & Social Justice",
-		"color": "#dd656a",
-		"category": "Community",
-		"priority": 5,
-		"difficulty": 2,
-		"postItText": "% of Projects with other more/less fortunate communities"
+		"postItText": ["Are CS projects reflecting the needs of the community?", "% of Projects with other more/less fortunate communities", "CS projects in community?", "Proportion of schools that offer CS that are in areas of low income, rural, high URM population (access)"]
 	},
 	{
 		"impactArea": "ESJ",
@@ -856,29 +615,7 @@
 		"category": "Students",
 		"priority": 1,
 		"difficulty": 3,
-		"postItText": "Change in attitudes in students around social justice before the course and after the courses"
-	},
-	{
-		"impactArea": "ESJ",
-		"impactName": "Equity & Social Justice",
-		"color": "#dd656a",
-		"category": "Students",
-		"priority": 1,
-		"difficulty": 3,
-		"postItText": "Increasing mentorships for students and faculty"
-	},
-
-
-
-
-	{
-		"impactArea": "PJA",
-		"impactName": "Personal Agency, Joy & Fulfillment",
-		"color": "#eebd4e",
-		"category": "Meaningful projects",
-		"priority": 3,
-		"difficulty": 2,
-		"postItText": "Kids are creating individually meaningful projects"
+		"postItText": ["Change in attitudes in students around social justice before the course and after the courses", "Increasing mentorships for students and faculty"]
 	},
 	{
 		"impactArea": "PJA",
@@ -887,7 +624,7 @@
 		"category": "Meaningful projects",
 		"priority": 3,
 		"difficulty": 2,
-		"postItText": "Students being exposed to projects that promote collaboration and creativity"
+		"postItText": ["Kids are creating individually meaningful projects", "Students being exposed to projects that promote collaboration and creativity"]
 	},
 	{
 		"impactArea": "PJA",
@@ -896,25 +633,7 @@
 		"category": "Engagement",
 		"priority": 1,
 		"difficulty": 3,
-		"postItText": "Students in post-course/club survey report being engaged and empowered by curricula and activities"
-	},
-	{
-		"impactArea": "PJA",
-		"impactName": "Personal Agency, Joy & Fulfillment",
-		"color": "#eebd4e",
-		"category": "Engagement",
-		"priority": 1,
-		"difficulty": 3,
-		"postItText": "Teachers in post surveys report students to appear engaged and interested in lessons and activities"
-	},
-	{
-		"impactArea": "PJA",
-		"impactName": "Personal Agency, Joy & Fulfillment",
-		"color": "#eebd4e",
-		"category": "Engagement",
-		"priority": 1,
-		"difficulty": 3,
-		"postItText": "Administrators and other family members report teaches and students (children) are engaged by CS/CT coursework"
+		"postItText": ["Teachers in post surveys report students to appear engaged and interested in lessons and activities", "Administrators and other family members report teaches and students (children) are engaged by CS/CT coursework", "Students in post-course/club survey report being engaged and empowered by curricula and activities"]
 	},
 	{
 		"impactArea": "PJA",
@@ -923,16 +642,7 @@
 		"category": "Expressions and Creativity Opportunities",
 		"priority": 2,
 		"difficulty": 3,
-		"postItText": "Kids feel they can express themselves through CS practices and concepts"
-	},
-	{
-		"impactArea": "PJA",
-		"impactName": "Personal Agency, Joy & Fulfillment",
-		"color": "#eebd4e",
-		"category": "Expressions and Creativity Opportunities",
-		"priority": 2,
-		"difficulty": 3,
-		"postItText": "Research in how students are able to express themselves through CS activities"
+		"postItText": ["Kids feel they can express themselves through CS practices and concepts", "Research in how students are able to express themselves through CS activities"]
 	},
 	{
 		"impactArea": "PJA",
@@ -941,16 +651,8 @@
 		"category": "Rankings and Referrals",
 		"priority": 3,
 		"difficulty": 0,
-		"postItText": "Students rank favorite courses at their school in terms of autonomy and engagement"
-	},
-	{
-		"impactArea": "PJA",
-		"impactName": "Personal Agency, Joy & Fulfillment",
-		"color": "#eebd4e",
-		"category": "Rankings and Referrals",
-		"priority": 3,
-		"difficulty": 0,
-		"postItText": "Student recommendation rate (would you recommend this course/club/etc. to a friend?)"
+		"postItText": ["Students rank favorite courses at their school in terms of autonomy and engagement",
+			"Student recommendation rate (would you recommend this course/club/etc. to a friend?)"]
 	},
 	{
 		"impactArea": "PJA",
