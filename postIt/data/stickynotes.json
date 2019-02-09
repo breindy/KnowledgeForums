@@ -6,174 +6,38 @@
 		"category": "Benefit (economic) to the community",
 		"priority": 4,
 		"difficulty": 7,
-		"postItText": "Diversity numbers in companies, job/unemployment rate, tech skills gap narrowing"
-	},
-	{
-		"impactArea": "EWD",
-		"impactName": "Economic & Workforce Development",
-		"color": "#5bb8f1",
-		"category": "Benefit (economic) to the community",
-		"priority": 4,
-		"difficulty": 7,
-		"postItText": "Percent of people earning a living wage in a community increases"
-	},
-	{
-		"impactArea": "EWD",
-		"impactName": "Economic & Workforce Development",
-		"color": "#5bb8f1",
-		"category": "Benefit (economic) to the community",
-		"priority": 4,
-		"difficulty": 7,
-		"postItText": "Wag......"
-	},
-	{
-		"impactArea": "EWD",
-		"impactName": "Economic & Workforce Development",
-		"color": "#5bb8f1",
-		"category": "Social Mobility",
-		"priority": 4,
-		"difficulty": 5,
-		"postItText": "Reduction in number of open/unfilled engineering and programming positions"
-	},
-	{
-		"impactArea": "EWD",
-		"impactName": "Economic & Workforce Development",
-		"color": "#5bb8f1",
-		"category": "Social Mobility",
-		"priority": 4,
-		"difficulty": 5,
-		"postItText": "Tracking social mobility of current CS graduates"
-	},
-	{
-		"impactArea": "EWD",
-		"impactName": "Economic & Workforce Development",
-		"color": "#5bb8f1",
-		"category": "Social Mobility",
-		"priority": 4,
-		"difficulty": 5,
-		"postItText": "Tracking women and minorities employed in local CS companies"
-	},
-	{
-		"impactArea": "EWD",
-		"impactName": "Economic & Workforce Development",
-		"color": "#5bb8f1",
-		"category": "Social Mobility",
-		"priority": 4,
-		"difficulty": 5,
-		"postItText": "Reduced dependency on social services in communities that increase computing jobs"
-	},
-	{
-		"impactArea": "EWD",
-		"impactName": "Economic & Workforce Development",
-		"color": "#5bb8f1",
-		"category": "Social Mobility",
-		"priority": 4,
-		"difficulty": 5,
-		"postItText": "Measure changes in community economic health when a large influx of high tech jobs grow in a community"
-	},
-	{
-		"impactArea": "EWD",
-		"impactName": "Economic & Workforce Development",
-		"color": "#5bb8f1",
-		"category": "Increase diversity & decrease underrepresentation",
-		"priority": 5,
-		"difficulty": 3,
-		"postItText": "Closing/Narrowing the gap in the shortage of engineers and programmers with a diverse workforce"
-	},
-	{
-		"impactArea": "EWD",
-		"impactName": "Economic & Workforce Development",
-		"color": "#5bb8f1",
-		"category": "Increase diversity & decrease underrepresentation",
-		"priority": 5,
-		"difficulty": 3,
-		"postItText": "% / # of URM in computing increases proportions"
-	},
-	{
-		"impactArea": "EWD",
-		"impactName": "Economic & Workforce Development",
-		"color": "#5bb8f1",
-		"category": "Increase diversity & decrease underrepresentation",
-		"priority": 5,
-		"difficulty": 3,
-		"postItText": "Increase in number of historically underrepresented groups in workforce"
-	},
-	{
-		"impactArea": "EWD",
-		"impactName": "Economic & Workforce Development",
-		"color": "#5bb8f1",
-		"category": "Increase diversity & decrease underrepresentation",
-		"priority": 5,
-		"difficulty": 3,
-		"postItText": "Reform hiring criteria to maximize diverse talent"
-	},
-	{
-		"impactArea": "EWD",
-		"impactName": "Economic & Workforce Development",
-		"color": "#5bb8f1",
-		"category": "Increase diversity & decrease underrepresentation",
-		"priority": 5,
-		"difficulty": 3,
-		"postItText": "% of URMs passing the AP"
-	},
-	{
-		"impactArea": "EWD",
-		"impactName": "Economic & Workforce Development",
-		"color": "#5bb8f1",
-		"category": "Increase diversity & decrease underrepresentation",
-		"priority": 5,
-		"difficulty": 3,
-		"postItText": "Increase in non-traditional students and non-traditional pathways in workforce"
-	},
-	{
-		"impactArea": "EWD",
-		"impactName": "Economic & Workforce Development",
-		"color": "#5bb8f1",
-		"category": "Support Tech Companies and Tech Employees",
-		"priority": 6,
-		"difficulty": 0,
-		"postItText": "Number of tech companies in El Paso increases"
-	},
-	{
-		"impactArea": "EWD",
-		"impactName": "Economic & Workforce Development",
-		"color": "#5bb8f1",
-		"category": "Support Tech Companies and Tech Employees",
-		"priority": 6,
-		"difficulty": 0,
-		"postItText": "Increase in number of job offers for new graduates (at UTEP)"
-	},
-	{
-		"impactArea": "EWD",
-		"impactName": "Economic & Workforce Development",
-		"color": "#5bb8f1",
-		"category": "Support Tech Companies and Tech Employees",
-		"priority": 6,
-		"difficulty": 0,
-		"postItText": "Increase in computing jobs attained by those reviewing computing credentials"
-	},
-	{
-		"impactArea": "EWD",
-		"impactName": "Economic & Workforce Development",
-		"color": "#5bb8f1",
-		"category": "Support Tech Companies and Tech Employees",
-		"priority": 6,
-		"difficulty": 0,
-		"postItText": "Texans are filling the jobs in engineering and programming"
-	},
-	{
-		"impactArea": "EWD",
-		"impactName": "Economic & Workforce Development",
-		"color": "#5bb8f1",
-		"category": "Support Tech Companies and Tech Employees",
-		"priority": 6,
-		"difficulty": 0,
-		"postItText": "Retention of URMs in computing professions increases"
+		"postItText": ["Wag......", "Diversity numbers in companies, job/unemployment rate, tech skills gap narrowing", "Percent of people earning a living wage in a community increases"]
 	},
 
+	{
+		"impactArea": "EWD",
+		"impactName": "Economic & Workforce Development",
+		"color": "#5bb8f1",
+		"category": "Social Mobility",
+		"priority": 4,
+		"difficulty": 5,
+		"postItText": ["Measure changes in community economic health when a large influx of high tech jobs grow in a community", "Reduced dependency on social services in communities that increase computing jobs", "Tracking women and minorities employed in local CS companies", "Reduction in number of open/unfilled engineering and programming positions", "Tracking social mobility of current CS graduates"]
+	},
 
+	{
+		"impactArea": "EWD",
+		"impactName": "Economic & Workforce Development",
+		"color": "#5bb8f1",
+		"category": "Increase diversity & decrease underrepresentation",
+		"priority": 5,
+		"difficulty": 3,
+		"postItText": ["Increase in non-traditional students and non-traditional pathways in workforce", "% of URMs passing the AP", "Reform hiring criteria to maximize diverse talent", "Increase in number of historically underrepresented groups in workforce", "% / # of URM in computing increases proportions", "Closing/Narrowing the gap in the shortage of engineers and programmers with a diverse workforce"]
+	},
 
-
+	{
+		"impactArea": "EWD",
+		"impactName": "Economic & Workforce Development",
+		"color": "#5bb8f1",
+		"category": "Support Tech Companies and Tech Employees",
+		"priority": 6,
+		"difficulty": 0,
+		"postItText": ["Number of tech companies in El Paso increases", "Increase in number of job offers for new graduates (at UTEP)", "Increase in computing jobs attained by those reviewing computing credentials", "Texans are filling the jobs in engineering and programming", "Retention of URMs in computing professions increases"]
+	},
 
 	{
 		"impactArea": "CCE1",
@@ -182,26 +46,9 @@
 		"category": "Instances of Community Engagement",
 		"priority": 0,
 		"difficulty": 6,
-		"postItText": "Increased rates of volunteering/engagement with community"
+		"postItText": ["Increased rates of volunteering/engagement with community", "Community reciprocal engagement with students", "How culturally responsive computing can engage students in local community?"]
 	},
-	{
-		"impactArea": "CCE1",
-		"impactName": "Citizenship & Civic Engagement",
-		"color": "#55a98f",
-		"category": "Instances of Community Engagement",
-		"priority": 0,
-		"difficulty": 6,
-		"postItText": "Community reciprocal engagement with students"
-	},
-	{
-		"impactArea": "CCE1",
-		"impactName": "Citizenship & Civic Engagement",
-		"color": "#55a98f",
-		"category": "Instances of Community Engagement",
-		"priority": 0,
-		"difficulty": 6,
-		"postItText": "How culturally responsive computing can engage students in local community?"
-	},
+
 	{
 		"impactArea": "CCE1",
 		"impactName": "Citizenship & Civic Engagement",
@@ -209,62 +56,9 @@
 		"category": "Rights and Responsibilities to participate in democracy",
 		"priority": 5,
 		"difficulty": 5,
-		"postItText": "Justify ethical choices in digital life"
+		"postItText": ["Justify ethical choices in digital life", "Students are able to ask informed questions about how their tech use impacts society and how societal tech impacts various populations", "Student ability to argue about impacts on democracy of tech", "Students are aware of the responsibilities as creators of technology to society", "% of students registering to vote & % of students (citizens) voting", "Students can explain impacts of technology across different groups/cultures/demographics", "Increased..... rate.... (es....."]
 	},
-	{
-		"impactArea": "CCE1",
-		"impactName": "Citizenship & Civic Engagement",
-		"color": "#55a98f",
-		"category": "Rights and Responsibilities to participate in democracy",
-		"priority": 5,
-		"difficulty": 5,
-		"postItText": "Students are able to ask informed questions about how their tech use impacts society and how societal tech impacts various populations"
-	},
-	{
-		"impactArea": "CCE1",
-		"impactName": "Citizenship & Civic Engagement",
-		"color": "#55a98f",
-		"category": "Rights and Responsibilities to participate in democracy",
-		"priority": 5,
-		"difficulty": 5,
-		"postItText": "Student ability to argue about impacts on democracy of tech"
-	},
-	{
-		"impactArea": "CCE1",
-		"impactName": "Citizenship & Civic Engagement",
-		"color": "#55a98f",
-		"category": "Rights and Responsibilities to participate in democracy",
-		"priority": 5,
-		"difficulty": 5,
-		"postItText": "Students are aware of the responsibilities as creators of technology to society"
-	},
-	{
-		"impactArea": "CCE1",
-		"impactName": "Citizenship & Civic Engagement",
-		"color": "#55a98f",
-		"category": "Rights and Responsibilities to participate in democracy",
-		"priority": 5,
-		"difficulty": 5,
-		"postItText": "% of students registering to vote & % of students (citizens) voting"
-	},
-	{
-		"impactArea": "CCE1",
-		"impactName": "Citizenship & Civic Engagement",
-		"color": "#55a98f",
-		"category": "Rights and Responsibilities to participate in democracy",
-		"priority": 5,
-		"difficulty": 5,
-		"postItText": "Students can explain impacts of technology across different groups/cultures/demographics"
-	},
-	{
-		"impactArea": "CCE1",
-		"impactName": "Citizenship & Civic Engagement",
-		"color": "#55a98f",
-		"category": "Rights and Responsibilities to participate in democracy",
-		"priority": 5,
-		"difficulty": 5,
-		"postItText": "Increased..... rate.... (es....."
-	},
+
 	{
 		"impactArea": "CCE1",
 		"impactName": "Citizenship & Civic Engagement",
@@ -272,44 +66,9 @@
 		"category": "Understanding Impact",
 		"priority": 5,
 		"difficulty": 0,
-		"postItText": "Students have agency in using and creating tech for societal (community) problems"
+		"postItText": ["Students have agency in using and creating tech for societal (community) problems", "Student understanding of tech in society --> ways it's used and how to use it back", "Students are aware of dangers to democracy from technology", "Students understanding of algorithms in social networks", "Awareness of a core set of issues (tbd) and how a lack of awareness leads to inequitable outcomes"]
 	},
-	{
-		"impactArea": "CCE1",
-		"impactName": "Citizenship & Civic Engagement",
-		"color": "#55a98f",
-		"category": "Understanding Impact",
-		"priority": 5,
-		"difficulty": 0,
-		"postItText": "Student understanding of tech in society --> ways it's used and how to use it back"
-	},
-	{
-		"impactArea": "CCE1",
-		"impactName": "Citizenship & Civic Engagement",
-		"color": "#55a98f",
-		"category": "Understanding Impact",
-		"priority": 5,
-		"difficulty": 0,
-		"postItText": "Students are aware of dangers to democracy from technology"
-	},
-	{
-		"impactArea": "CCE1",
-		"impactName": "Citizenship & Civic Engagement",
-		"color": "#55a98f",
-		"category": "Understanding Impact",
-		"priority": 5,
-		"difficulty": 0,
-		"postItText": "Students understanding of algorithms in social networks"
-	},
-	{
-		"impactArea": "CCE1",
-		"impactName": "Citizenship & Civic Engagement",
-		"color": "#55a98f",
-		"category": "Understanding Impact",
-		"priority": 5,
-		"difficulty": 0,
-		"postItText": "Awareness of a core set of issues (tbd) and how a lack of awareness leads to inequitable outcomes"
-	},
+
 	{
 		"impactArea": "CCE1",
 		"impactName": "Citizenship & Civic Engagement",
@@ -317,44 +76,9 @@
 		"category": "Self Efficacy/Ability",
 		"priority": 4,
 		"difficulty": 2,
-		"postItText": "Increased desire to pursue civically oriented pursuits"
+		"postItText": ["Increased desire to pursue civically oriented pursuits", "Students can design technology solutions to solve local problems", "Student self-efficacy and feelings of being able to impact society", "How students use CS to solve local civic issues?", "Students can navigate the positive opportunities and ethical challenges of digital life."]
 	},
-	{
-		"impactArea": "CCE1",
-		"impactName": "Citizenship & Civic Engagement",
-		"color": "#55a98f",
-		"category": "Self Efficacy/Ability",
-		"priority": 4,
-		"difficulty": 2,
-		"postItText": "Students can design technology solutions to solve local problems"
-	},
-	{
-		"impactArea": "CCE1",
-		"impactName": "Citizenship & Civic Engagement",
-		"color": "#55a98f",
-		"category": "Self Efficacy/Ability",
-		"priority": 4,
-		"difficulty": 2,
-		"postItText": "Student self-efficacy and feelings of being able to impact society"
-	},
-	{
-		"impactArea": "CCE1",
-		"impactName": "Citizenship & Civic Engagement",
-		"color": "#55a98f",
-		"category": "Self Efficacy/Ability",
-		"priority": 4,
-		"difficulty": 2,
-		"postItText": "How students use CS to solve local civic issues?"
-	},
-	{
-		"impactArea": "CCE1",
-		"impactName": "Citizenship & Civic Engagement",
-		"color": "#55a98f",
-		"category": "Self Efficacy/Ability",
-		"priority": 4,
-		"difficulty": 2,
-		"postItText": "Students can navigate the positive opportunities and ethical challenges of digital life."
-	},
+
 	{
 		"impactArea": "CCE1",
 		"impactName": "Citizenship & Civic Engagement",
@@ -365,9 +89,6 @@
 		"postItText": "Affect towards citizenship and civic engagement as it pertains to CS and society"
 	},
 
-
-
-
 	{
 		"impactArea": "CCE2",
 		"impactName": "Citizenship & Civic Engagement",
@@ -377,6 +98,7 @@
 		"difficulty": 9,
 		"postItText": "More (and more diverse) students run for public office"
 	},
+
 	{
 		"impactArea": "CCE2",
 		"impactName": "Citizenship & Civic Engagement",
@@ -384,26 +106,9 @@
 		"category": "Voting",
 		"priority": 1,
 		"difficulty": 7,
-		"postItText": "Increase the number of underrepresented individuals who vote"
+		"postItText": ["Increase the number of underrepresented individuals who vote", "More (and more diverse) students vote", "Increase the rate of voter turnout and participation in local and national elections"]
 	},
-	{
-		"impactArea": "CCE2",
-		"impactName": "Citizenship & Civic Engagement",
-		"color": "#55a98f",
-		"category": "Voting",
-		"priority": 1,
-		"difficulty": 7,
-		"postItText": "More (and more diverse) students vote"
-	},
-	{
-		"impactArea": "CCE2",
-		"impactName": "Citizenship & Civic Engagement",
-		"color": "#55a98f",
-		"category": "Voting",
-		"priority": 1,
-		"difficulty": 7,
-		"postItText": "Increase the rate of voter turnout and participation in local and national elections"
-	},
+
 	{
 		"impactArea": "CCE2",
 		"impactName": "Citizenship & Civic Engagement",
@@ -411,17 +116,9 @@
 		"category": "Private Sector Engagement",
 		"priority": 6,
 		"difficulty": 1,
-		"postItText": "Seeing more young people question platforms and systems put into place"
+		"postItText": ["Seeing more young people question platforms and systems put into place", "....startups with a double-bottom line"]
 	},
-	{
-		"impactArea": "CCE2",
-		"impactName": "Citizenship & Civic Engagement",
-		"color": "#55a98f",
-		"category": "Private Sector Engagement",
-		"priority": 6,
-		"difficulty": 1,
-		"postItText": "....startups with a double-bottom line"
-	},
+
 	{
 		"impactArea": "CCE2",
 		"impactName": "Citizenship & Civic Engagement",
@@ -429,21 +126,8 @@
 		"category": "Community-based Curricula",
 		"priority": 8,
 		"difficulty": 1,
-		"postItText": "Increase the number of community engagement projects by schools/districts"
+		"postItText": ["Increase the number of community engagement projects by schools/districts", "Increase the number of community-based integrations in CS (consensible?)..."]
 	},
-	{
-		"impactArea": "CCE2",
-		"impactName": "Citizenship & Civic Engagement",
-		"color": "#55a98f",
-		"category": "Community-based Curricula",
-		"priority": 8,
-		"difficulty": 1,
-		"postItText": "Increase the number of community-based integrations in CS (consensible?)..."
-	},
-
-
-
-
 
 	{
 		"impactArea": "CL",
@@ -454,6 +138,7 @@
 		"difficulty": 5,
 		"postItText": "Success in working in a diverse group environment"
 	},
+
 	{
 		"impactArea": "CL",
 		"impactName": "Competencies & Literacies",
@@ -463,6 +148,7 @@
 		"difficulty": 3,
 		"postItText": "Do CS outside of classroom"
 	},
+
 	{
 		"impactArea": "CL",
 		"impactName": "Competencies & Literacies",
@@ -470,26 +156,9 @@
 		"category": "Outcomes/evaluation",
 		"priority": 2,
 		"difficulty": 1,
-		"postItText": "Evaluation: long-term tracking"
+		"postItText": ["Evaluation: long-term tracking", "Outcomes", "Student voices at the end of programs and projects would reflect intended outcomes (Ex: I learned to collaborate by XX because YY.)"]
 	},
-	{
-		"impactArea": "CL",
-		"impactName": "Competencies & Literacies",
-		"color": "#8e80ba",
-		"category": "Outcomes/evaluation",
-		"priority": 2,
-		"difficulty": 1,
-		"postItText": "Outcomes"
-	},
-	{
-		"impactArea": "CL",
-		"impactName": "Competencies & Literacies",
-		"color": "#8e80ba",
-		"category": "Outcomes/evaluation",
-		"priority": 2,
-		"difficulty": 1,
-		"postItText": "Student voices at the end of programs and projects would reflect intended outcomes (Ex: I learned to collaborate by XX because YY.)"
-	},
+
 	{
 		"impactArea": "CL",
 		"impactName": "Competencies & Literacies",
@@ -497,17 +166,9 @@
 		"category": "Relevance & Amount of Practice",
 		"priority": 3,
 		"difficulty": 0,
-		"postItText": "What is the right amount of exposure to CT (all or 1 of 7) strategies to become proficient?"
+		"postItText": ["What is the right amount of exposure to CT (all or 1 of 7) strategies to become proficient?", "Ability to problem-solve across curriculum/content"]
 	},
-	{
-		"impactArea": "CL",
-		"impactName": "Competencies & Literacies",
-		"color": "#8e80ba",
-		"category": "Relevance & Amount of Practice",
-		"priority": 3,
-		"difficulty": 0,
-		"postItText": "Ability to problem-solve across curriculum/content"
-	},
+
 	{
 		"impactArea": "CL",
 		"impactName": "Competencies & Literacies",
@@ -515,17 +176,9 @@
 		"category": "Equity",
 		"priority": 5,
 		"difficulty": 0,
-		"postItText": "Successful demographics"
+		"postItText": ["Successful demographics", "Who are the A students? The C students? The D, F students?"]
 	},
-	{
-		"impactArea": "CL",
-		"impactName": "Competencies & Literacies",
-		"color": "#8e80ba",
-		"category": "Equity",
-		"priority": 5,
-		"difficulty": 0,
-		"postItText": "Who are the A students? The C students? The D, F students?"
-	},
+
 	{
 		"impactArea": "TSS",
 		"impactName": "Technological, Social & Scientific Innovation",
@@ -535,6 +188,7 @@
 		"difficulty": 3,
 		"postItText": ["% increase of Latinx/Black/Native youth participating/applying for competitions and awards in CS (i.e. NCWIT, First, etc.)", "% increase of girls participating in entrepreneurship/innovation competitions", "Clear teacher pathways are identified for High School educators; certification process available across states", "Heat map of people with CS skills (does it span communities)"]
 	},
+
 	{
 		"impactArea": "TSS",
 		"impactName": "Technological, Social & Scientific Innovation",
@@ -554,6 +208,7 @@
 		"difficulty": 2,
 		"postItText": ["Increase in the number of CS+X programs across all major disciplinary areas (STEM, humanities, social sciences)", "Increase in the number of curricula that integrate CS and other disciplines", "All K-5 teachers receive CS or CT education via pre-service courses within social justice education framework"]
 	},
+
 	{
 		"impactArea": "TSS",
 		"impactName": "Technological, Social & Scientific Innovation",
@@ -563,6 +218,17 @@
 		"difficulty": 4,
 		"postItText": ["CS-related projects that are helping to solve a community-identified problem", "Number of (or %) communities impacted by a locally CS-solved problem & represented --> which ones"]
 	},
+
+	{
+		"impactArea": "ESJ",
+		"impactName": "Equity & Social Justice",
+		"color": "#dd656a",
+		"category": "Faculty Representation",
+		"priority": 4,
+		"difficulty": 5,
+		"postItText": ["More teachers of color in CS education", "Does faculty reflect community?"]
+	},
+
 	{
 		"impactArea": "ESJ",
 		"impactName": "Equity & Social Justice",
@@ -570,8 +236,9 @@
 		"category": "Student Representation",
 		"priority": 4,
 		"difficulty": 5,
-		"postItText": ["More teachers of color in CS education", "Does faculty reflect community?", "Are students with disabilities included in CS classes?", "Proportion of CS students enrolled in CS courses who are female, low income, URM, disabled (participation)", "Does representation in the classroom = representation in the community?", "Indicators of student engagement, identity, agency, especially underrepresented students"]
+		"postItText": ["Are students with disabilities included in CS classes?", "Proportion of CS students enrolled in CS courses who are female, low income, URM, disabled (participation)", "Does representation in the classroom = representation in the community?", "Indicators of student engagement, identity, agency, especially underrepresented students"]
 	},
+	
 	{
 		"impactArea": "ESJ",
 		"impactName": "Equity & Social Justice",
@@ -581,6 +248,7 @@
 		"difficulty": 1,
 		"postItText": ["Increasing teacher participation", "Every CS PD work with teachers around equity, biases", "Proportion of CS teachers in low income, high-URM population areas who are qualified to teach CS (quality)", "# of faculty who attend PD on incorporating social justice in the curriculum"]
 	},
+
 	{
 		"impactArea": "ESJ",
 		"impactName": "Equity & Social Justice",
@@ -590,6 +258,7 @@
 		"difficulty": 3,
 		"postItText": ["Use of curriculum that includes inquiry-based units learning about social justice", "In teaching programming are accessible tools used?", "Does web design/dev course include accessible design?", "Pathways in ED: CTE vs. Academic", "Simplifying language on how we communicate about CS education to the uninformed", "Changing the way we develop CS curriculum making it more adaptable based on student feedback", "Are ethics, equity, and cultural sensitivity in the curriculum?"]
 	},
+
 	{
 		"impactArea": "ESJ",
 		"impactName": "Equity & Social Justice",
@@ -599,6 +268,7 @@
 		"difficulty": 2,
 		"postItText": ["Are CS projects reflecting the needs of the community?", "% of Projects with other more/less fortunate communities", "CS projects in community?", "Proportion of schools that offer CS that are in areas of low income, rural, high URM population (access)"]
 	},
+
 	{
 		"impactArea": "ESJ",
 		"impactName": "Equity & Social Justice",
@@ -608,6 +278,7 @@
 		"difficulty": 6,
 		"postItText": "Identifying diversity of iniquities cross culturally and not only based on socio economic or minority status"
 	},
+
 	{
 		"impactArea": "ESJ",
 		"impactName": "Equity & Social Justice",
@@ -617,6 +288,7 @@
 		"difficulty": 3,
 		"postItText": ["Change in attitudes in students around social justice before the course and after the courses", "Increasing mentorships for students and faculty"]
 	},
+
 	{
 		"impactArea": "PJA",
 		"impactName": "Personal Agency, Joy & Fulfillment",
@@ -626,6 +298,7 @@
 		"difficulty": 2,
 		"postItText": ["Kids are creating individually meaningful projects", "Students being exposed to projects that promote collaboration and creativity"]
 	},
+
 	{
 		"impactArea": "PJA",
 		"impactName": "Personal Agency, Joy & Fulfillment",
@@ -635,6 +308,7 @@
 		"difficulty": 3,
 		"postItText": ["Teachers in post surveys report students to appear engaged and interested in lessons and activities", "Administrators and other family members report teaches and students (children) are engaged by CS/CT coursework", "Students in post-course/club survey report being engaged and empowered by curricula and activities"]
 	},
+
 	{
 		"impactArea": "PJA",
 		"impactName": "Personal Agency, Joy & Fulfillment",
@@ -644,6 +318,7 @@
 		"difficulty": 3,
 		"postItText": ["Kids feel they can express themselves through CS practices and concepts", "Research in how students are able to express themselves through CS activities"]
 	},
+
 	{
 		"impactArea": "PJA",
 		"impactName": "Personal Agency, Joy & Fulfillment",
@@ -651,9 +326,9 @@
 		"category": "Rankings and Referrals",
 		"priority": 3,
 		"difficulty": 0,
-		"postItText": ["Students rank favorite courses at their school in terms of autonomy and engagement",
-			"Student recommendation rate (would you recommend this course/club/etc. to a friend?)"]
+		"postItText": ["Students rank favorite courses at their school in terms of autonomy and engagement", "Student recommendation rate (would you recommend this course/club/etc. to a friend?)"]
 	},
+	
 	{
 		"impactArea": "PJA",
 		"impactName": "Personal Agency, Joy & Fulfillment",
@@ -663,5 +338,4 @@
 		"difficulty": 1,
 		"postItText": "Inter-group parity in self-described affective happiness measures (diability cs. mainstream; ethnicity; gender)"
 	}
-
 ]

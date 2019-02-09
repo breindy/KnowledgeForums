@@ -21,3 +21,21 @@
 	fill: salmon;
 
 }
+.row div {
+	border-radius: 5px;
+	height: 210px;
+	width: 655px;
+	border: solid 30px #b9a48e;
+	background: #a08464;
+	margin: auto;
+}
+#citizenship {
+	width: 1140px;
+}
+#competencies, #economic, #school, #technological {
+	width: 540px;
+}
+#equity {
+	width: 900px;
+}
+
