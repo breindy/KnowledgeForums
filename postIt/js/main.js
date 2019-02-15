@@ -24,7 +24,7 @@ d3.json("data/stickynotes.json").then(function(data){
 						   "<strong>Category:</strong> " + d.category + "</br>" +
 						   "<strong>Priority:</strong> " + d.priority + "</br>" +
 						   "<strong>Difficulty:</strong> " + d.difficulty + "</br>" +
-						   "<strong>Description:</strong> " + d.postItText + "</br>";
+						   "<strong>Description:</strong> " + d.postItText.join("") + "</br>";
 			})
 	
 		var x = d3.scaleLinear()

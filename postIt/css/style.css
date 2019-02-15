@@ -42,3 +42,268 @@ svg .x-axis path::before {
   position: absolute;
   top: 250px;
 }
+
+.resultsWrapper {
+  width: 80%;
+  margin: auto;
+  margin-top: 50px;
+  color: #2a5ab2;
+  text-align: center;
+}
+.yourResultsWrapper {
+  min-height: 150px;
+}
+.yourResultsWrapper,
+.resultsChart {
+  margin: 50px 0px;
+  width: 45%;
+  float: left;
+}
+.yourResultsInner {
+  width: 450px;
+  margin: auto;
+}
+.impactAreas {
+  clear: both;
+  text-align: center;
+}
+.impactAreas h2 {
+  margin-bottom: -20px;
+}
+@media only screen and (max-width: 768px) {
+  .resultsWrapper {
+    width: 100%;
+  }
+  .yourResultsWrapper,
+  .resultsChart {
+    float: none;
+    width: 100%;
+    clear: both;
+    margin: 30px 0px;
+  }
+}
+
+/* ===== Category Information Component */
+.text {
+  color: white !important;
+}
+
+.categoryInfoWrapper {
+  margin-top: 50px;
+}
+.category h3 {
+  text-align: left;
+  font-size: 20px;
+}
+
+/* ===== Rainbow Category Blocks Header ====== */
+.categoryBlocks_wrapper {
+  width: 1050px;
+  height: 100px;
+  margin: auto;
+  border: none;
+}
+.categoryBlock {
+  width: 150px;
+  height: 150px;
+  float: left;
+  padding: 25px 20px;
+  text-align: center;
+  color: white;
+}
+.categoryBlock p {
+  font-size: 18px;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  flex-direction: column;
+  /* vertical-align: middle;  */
+}
+#blue {
+  background-color: #55b5f4;
+}
+#green {
+  background-color: #54a98f;
+}
+#purple {
+  background-color: #8e7bc1;
+}
+#pink {
+  background-color: #ec8cba;
+}
+#red {
+  background-color: #df6769;
+}
+#orange {
+  background-color: #d98b3f;
+}
+#yellow {
+  background-color: #efc13d;
+}
+
+/* Responsiveness of Raninbow Category Blocks Header */
+@media only screen and (max-width: 1320px) {
+  .categoryBlocks_wrapper {
+    width: 840px;
+  }
+  .categoryBlock {
+    width: 120px;
+    height: 120px;
+    padding: 25px 10px;
+  }
+  .categoryBlock p {
+    font-size: 14px;
+  }
+  .yourResultsInner {
+    width: 360px;
+  }
+}
+@media only screen and (max-width: 1200px) {
+  .categoryBlock {
+    padding: 20px 10px;
+  }
+}
+@media only screen and (max-width: 970px) {
+  .categoryBlocks_wrapper {
+    width: 700px;
+    height: 200px;
+  }
+  .categoryBlock {
+    width: 100px;
+    height: 100px;
+    padding: 15px 10px;
+  }
+  .categoryBlock p {
+    font-size: 12px;
+  }
+  .yourResultsInner {
+    width: 300px;
+  }
+}
+@media only screen and (max-width: 769px) {
+  .categoryBlocks_wrapper {
+    width: 700px;
+    margin: auto;
+    height: 120px;
+  }
+  .categoryBlock {
+    width: 100px;
+    height: 100px;
+    padding: 15px 10px;
+  }
+  .categoryBlock p {
+    font-size: 12px;
+  }
+}
+@media only screen and (max-width: 425px) {
+  .categoryBlocks_wrapper {
+    width: auto;
+    height: 200px;
+  }
+  .categoryBlock {
+    width: 106px;
+    height: 105px;
+    padding: 15px 10px;
+  }
+  .yourResultsInner {
+    width: 318px;
+  }
+}
+@media only screen and (max-width: 375px) {
+  .categoryBlock {
+    width: 93px;
+    height: 93px;
+  }
+  .yourResultsInner {
+    width: 279px;
+  }
+}
+@media only screen and (max-width: 320px) {
+  .categoryBlock {
+    width: 80px;
+    height: 80px;
+    padding: 10px;
+  }
+  .categoryBlock p {
+    font-size: 11px;
+  }
+  .yourResultsInner {
+    width: 240px;
+  }
+}
+/* ========= About Page & Results Page Category Descriptions ========== */
+.aboutWrapper,
+.categoryInfoWrapper,
+.resources {
+  width: 70%;
+  margin: auto;
+  margin-top: 50px;
+  color: grey;
+  font-family: 'Lato', sans-serif;
+}
+.aboutWrapper h3,
+.category h3,
+.resources h3 {
+  text-align: left;
+  color: #2a5ab2;
+}
+.resources h4 {
+  color: black;
+  text-align: center;
+  margin: 30px 0px;
+}
+.aboutWrapper p,
+.categoryInfoWrapper p,
+.resources p {
+  text-align: justify;
+}
+.aboutWrapper ul li,
+.category ul li,
+.resources ul li {
+  text-align: left;
+}
+.aboutWrapper a,
+.categoryInfoWrapper a {
+  color: #fba000;
+}
+.categoryInfoWrapper hr {
+  background-color: #2a5ab2;
+  margin: 30px 0px;
+}
+@media only screen and (max-width: 375px) {
+  .aboutWrapper,
+  .categoryInfoWrapper,
+  .resources {
+    width: 80%;
+  }
+}
+
+/* Home page */
+
+blockquote {
+  background: #eee;
+  border-radius: 5px;
+}
+
+blockquote p {
+  padding: 15px;
+}
+
+blockquote p::before {
+  content: '\201C';
+}
+
+blockquote p::after {
+  content: '\201D';
+}
+
+.pageTitle {
+  color: #36b8f8;
+}
+
+.textHome {
+  color: grey;
+  font-size: 25px;
+  font-family: 'Lato', sans-serif;
+  text-align: center !important;
+}
