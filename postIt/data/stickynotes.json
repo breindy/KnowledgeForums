@@ -133,7 +133,10 @@
     "category": "Affect/Disposition",
     "priority": 1,
     "difficulty": 0,
-    "postItText": "<li>Affect towards citizenship and civic engagement as it pertains to CS and society</li>"
+    "postItText": [
+      "<li>Affect towards citizenship and civic engagement as it pertains to CS and society</li>",
+      ""
+    ]
   },
 
   {
@@ -143,7 +146,10 @@
     "category": "Policy",
     "priority": 2,
     "difficulty": 9,
-    "postItText": "<li>More (and more diverse) students run for public office</li>"
+    "postItText": [
+      "<li>More (and more diverse) students run for public office</li>",
+      ""
+    ]
   },
 
   {
@@ -193,7 +199,10 @@
     "category": "Future professional impact",
     "priority": 1,
     "difficulty": 5,
-    "postItText": "<li>Success in working in a diverse group environment</li>"
+    "postItText": [
+      "<li>Success in working in a diverse group environment</li>",
+      ""
+    ]
   },
 
   {
@@ -203,7 +212,7 @@
     "category": "Outside engagement",
     "priority": 0,
     "difficulty": 3,
-    "postItText": "<li>Do CS outside of classroom</li>"
+    "postItText": ["<li>Do CS outside of classroom</li>", ""]
   },
 
   {
@@ -386,7 +395,10 @@
     "category": "Cross-Cultural",
     "priority": 0,
     "difficulty": 6,
-    "postItText": "<li>Identifying diversity of iniquities cross culturally and not only based on socio economic or minority status</li>"
+    "postItText": [
+      "<li>Identifying diversity of iniquities cross culturally and not only based on socio economic or minority status</li>",
+      ""
+    ]
   },
 
   {
@@ -462,6 +474,9 @@
     "category": "Self-rating Happiness",
     "priority": 1,
     "difficulty": 1,
-    "postItText": "<li>Inter-group parity in self-described affective happiness measures (diability cs. mainstream; ethnicity; gender)</li>"
+    "postItText": [
+      "<li>Inter-group parity in self-described affective happiness measures (diability cs. mainstream; ethnicity; gender)</li>",
+      ""
+    ]
   }
 ]
