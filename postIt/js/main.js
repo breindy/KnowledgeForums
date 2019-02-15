@@ -1,7 +1,7 @@
 var margin = { left: 100, right: 10, top: 50, bottom: 100};
 
-var width = 1000 - margin.left - margin.right;
-var height = 600 - margin.top - margin.bottom;
+var width = 1010 - margin.left - margin.right;
+var height = 705 - margin.top - margin.bottom;
 
 
 d3.json("data/stickynotes.json").then(function(data){

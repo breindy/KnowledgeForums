@@ -32,6 +32,66 @@
   top: 200px;
   z-index: -999;
 } */
+.color-group-wrapper {
+  width: 896px;
+  height: 553px;
+  /* background: linear-gradient(to right, yellow, blue); */
+  margin-left: 165px;
+  position: absolute;
+  top: 200px;
+  z-index: -9999;
+}
+.color-group {
+  width: 295px;
+  height: 185px;
+  position: absolute;
+  z-index: -555;
+}
+#group1 {
+  top: 0;
+  left: 0;
+  background: #E5ECFF;
+}
+#group2 {
+  top: 0;
+  left: 295px;
+  background: #CCD8FF;
+}
+#group3 {
+  top: 0;
+  left: 590px;
+  background: #B3C5FF;
+}
+#group4 {
+  top: 185px;
+  left: 0px;
+  background: #CCD8FF;
+}
+#group5 {
+  top: 185px;
+  left: 295px;;
+  background: #B3C5FF;
+}
+#group6 {
+  top: 185px;
+  left: 590px;
+  background: #809EFF;
+}
+#group7 {
+  top: 370px;
+  left: 0px;
+  background: #B3C5FF;
+}
+#group8 {
+  top: 370px;
+  left: 295px;
+  background: #809EFF;
+}
+#group9 {
+  top: 370px;
+  left: 590px;
+  background: #4D77FF;
+}
 
 svg .x-axis path::before {
   content: '';
@@ -41,4 +101,15 @@ svg .x-axis path::before {
   border: solid red 3px;
   position: absolute;
   top: 250px;
+}
+
+@media only screen and (max-width: 1200px) {
+  .color-group-wrapper {
+    margin-left: 100px;
+  }
+}
+@media only screen and (max-width: 1024px) {
+#chart-area, .color-group-wrapper {
+    display: none;
+  }
 }
