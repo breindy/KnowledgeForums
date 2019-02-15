@@ -3,7 +3,7 @@
   <head>
     <meta charset="utf-8" />
     <meta name="description" content="" />
-    <title>Post It Knowledge Forum</title>
+    <title>Sticky Note Wall Knowledge Forum</title>
     <!-- Bootstrap -->
     <link rel="stylesheet" href="css/bootstrap.min.css" />
     <!-- Custom styling -->
@@ -21,6 +21,36 @@
     <h3 style="text-align: center">Post It Knowledge Forum Results</h3>
     <p style="text-align: center">Interactive Scatter Plot</p>
 
+    <!-- category color codes -->
+    <div class="categoryBlocks_wrapper">
+      <h4>Impact Areas:</h4>
+      <div class="categoryBlock" id="blue">
+        <p>Economic & Workforce Development</p>
+      </div>
+      <div class="categoryBlock" id="green">
+        <p>Citizenship & Civic Engagement</p>
+      </div>
+      <div class="categoryBlock" id="purple">
+        <p>Competencies & Literacies</p>
+      </div>
+      <div class="categoryBlock" id="pink">
+        <p>Scientific, Technological, & Social Innovation</p>
+      </div>
+      <div class="categoryBlock" id="red">
+        <p>Equity & Social Justice</p>
+      </div>
+      <div class="categoryBlock" id="orange">
+        <p>School Improvement & Reform</p>
+      </div>
+      <div class="categoryBlock" id="yellow">
+        <p>Personal Agency, Joy & Fulfillment</p>
+      </div>
+    </div>
+      
+      <div class="row"><div id="chart-area"></div></div>
+      <div id="tooltip-wrapper"></div>
+    </div>
+
     <!-- Bootstrap grid setup -->
     <div class="container">
       <!-- <div class="row"> -->
@@ -37,41 +67,7 @@
         <div class="color-group" id="group8"></div>
         <div class="color-group" id="group9"></div>
       </div>
-      <div class="row">
-        <div className="categoryBlocks_wrapper">
-          <div className="categoryBlock" id="blue">
-            <p>Economic & Workforce Development</p>
-          </div>
-
-          <div className="categoryBlock" id="green">
-            <p>Citizenship & Civic Engagement</p>
-          </div>
-
-          <div className="categoryBlock" id="purple">
-            <p>Competencies & Literacies</p>
-          </div>
-
-          <div className="categoryBlock" id="pink">
-            <p>Scientific, Technological, & Social Innovation</p>
-          </div>
-
-          <div className="categoryBlock" id="red">
-            <p>Equity & Social Justice</p>
-          </div>
-
-          <div className="categoryBlock" id="orange">
-            <p>School Improvement & Reform</p>
-          </div>
-
-          <div className="categoryBlock" id="yellow">
-            <p>Personal Agency, Joy & Fulfillment</p>
-          </div>
-        </div>
-      </div>
-      <div class="row"><div id="chart-area"></div></div>
-      <div id="tooltip-wrapper"></div>
-    </div>
-
+      
     <!-- External JS libraries -->
     <script src="js/d3.min.js"></script>
     <!-- Custom JS -->

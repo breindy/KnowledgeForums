@@ -17,6 +17,10 @@
   text-align: center;
 }
 
+h4 {
+  text-align: left;
+}
+
 .d3-tip li {
   text-align: left;
 }
@@ -36,13 +40,13 @@
   width: 896px;
   height: 553px;
   /* background: linear-gradient(to right, yellow, blue); */
-  margin-left: 165px;
+  margin-left: 145px;
   position: absolute;
-  top: 200px;
+  top: 377px;
   z-index: -9999;
 }
 .color-group {
-  width: 295px;
+  width: 300px;
   height: 185px;
   position: absolute;
   z-index: -555;
@@ -54,12 +58,12 @@
 }
 #group2 {
   top: 0;
-  left: 295px;
+  left: 300px;
   background: #CCD8FF;
 }
 #group3 {
   top: 0;
-  left: 590px;
+  left: 600px;
   background: #B3C5FF;
 }
 #group4 {
@@ -69,12 +73,12 @@
 }
 #group5 {
   top: 185px;
-  left: 295px;;
+  left: 300px;;
   background: #B3C5FF;
 }
 #group6 {
   top: 185px;
-  left: 590px;
+  left: 600px;
   background: #809EFF;
 }
 #group7 {
@@ -84,12 +88,12 @@
 }
 #group8 {
   top: 370px;
-  left: 295px;
+  left: 300px;
   background: #809EFF;
 }
 #group9 {
   top: 370px;
-  left: 590px;
+  left: 600px;
   background: #4D77FF;
 }
 
@@ -102,68 +106,16 @@ svg .x-axis path::before {
   position: absolute;
   top: 250px;
 }
+@media only screen and (max-width: 1320px) { 
+  .color-group-wrapper {
+    top: 347px;
+  }
+}
 
 @media only screen and (max-width: 1200px) {
-  .color-group-wrapper {
-    margin-left: 100px;
-  }
-}
-@media only screen and (max-width: 1024px) {
-#chart-area, .color-group-wrapper {
+  #chart-area, .color-group-wrapper {
     display: none;
   }
-}
-.resultsWrapper {
-  width: 80%;
-  margin: auto;
-  margin-top: 50px;
-  color: #2a5ab2;
-  text-align: center;
-}
-.yourResultsWrapper {
-  min-height: 150px;
-}
-.yourResultsWrapper,
-.resultsChart {
-  margin: 50px 0px;
-  width: 45%;
-  float: left;
-}
-.yourResultsInner {
-  width: 450px;
-  margin: auto;
-}
-.impactAreas {
-  clear: both;
-  text-align: center;
-}
-.impactAreas h2 {
-  margin-bottom: -20px;
-}
-@media only screen and (max-width: 768px) {
-  .resultsWrapper {
-    width: 100%;
-  }
-  .yourResultsWrapper,
-  .resultsChart {
-    float: none;
-    width: 100%;
-    clear: both;
-    margin: 30px 0px;
-  }
-}
-
-/* ===== Category Information Component */
-.text {
-  color: white !important;
-}
-
-.categoryInfoWrapper {
-  margin-top: 50px;
-}
-.category h3 {
-  text-align: left;
-  font-size: 20px;
 }
 
 /* ===== Rainbow Category Blocks Header ====== */
@@ -233,147 +185,8 @@ svg .x-axis path::before {
     padding: 20px 10px;
   }
 }
-@media only screen and (max-width: 970px) {
+@media only screen and (max-width: 1024) {
   .categoryBlocks_wrapper {
-    width: 700px;
-    height: 200px;
+   display: none;
   }
-  .categoryBlock {
-    width: 100px;
-    height: 100px;
-    padding: 15px 10px;
-  }
-  .categoryBlock p {
-    font-size: 12px;
-  }
-  .yourResultsInner {
-    width: 300px;
-  }
-}
-@media only screen and (max-width: 769px) {
-  .categoryBlocks_wrapper {
-    width: 700px;
-    margin: auto;
-    height: 120px;
-  }
-  .categoryBlock {
-    width: 100px;
-    height: 100px;
-    padding: 15px 10px;
-  }
-  .categoryBlock p {
-    font-size: 12px;
-  }
-}
-@media only screen and (max-width: 425px) {
-  .categoryBlocks_wrapper {
-    width: auto;
-    height: 200px;
-  }
-  .categoryBlock {
-    width: 106px;
-    height: 105px;
-    padding: 15px 10px;
-  }
-  .yourResultsInner {
-    width: 318px;
-  }
-}
-@media only screen and (max-width: 375px) {
-  .categoryBlock {
-    width: 93px;
-    height: 93px;
-  }
-  .yourResultsInner {
-    width: 279px;
-  }
-}
-@media only screen and (max-width: 320px) {
-  .categoryBlock {
-    width: 80px;
-    height: 80px;
-    padding: 10px;
-  }
-  .categoryBlock p {
-    font-size: 11px;
-  }
-  .yourResultsInner {
-    width: 240px;
-  }
-}
-/* ========= About Page & Results Page Category Descriptions ========== */
-.aboutWrapper,
-.categoryInfoWrapper,
-.resources {
-  width: 70%;
-  margin: auto;
-  margin-top: 50px;
-  color: grey;
-  font-family: 'Lato', sans-serif;
-}
-.aboutWrapper h3,
-.category h3,
-.resources h3 {
-  text-align: left;
-  color: #2a5ab2;
-}
-.resources h4 {
-  color: black;
-  text-align: center;
-  margin: 30px 0px;
-}
-.aboutWrapper p,
-.categoryInfoWrapper p,
-.resources p {
-  text-align: justify;
-}
-.aboutWrapper ul li,
-.category ul li,
-.resources ul li {
-  text-align: left;
-}
-.aboutWrapper a,
-.categoryInfoWrapper a {
-  color: #fba000;
-}
-.categoryInfoWrapper hr {
-  background-color: #2a5ab2;
-  margin: 30px 0px;
-}
-@media only screen and (max-width: 375px) {
-  .aboutWrapper,
-  .categoryInfoWrapper,
-  .resources {
-    width: 80%;
-  }
-}
-
-/* Home page */
-
-blockquote {
-  background: #eee;
-  border-radius: 5px;
-}
-
-blockquote p {
-  padding: 15px;
-}
-
-blockquote p::before {
-  content: '\201C';
-}
-
-blockquote p::after {
-  content: '\201D';
-}
-
-.pageTitle {
-  color: #36b8f8;
-}
-
-.textHome {
-  color: grey;
-  font-size: 25px;
-  font-family: 'Lato', sans-serif;
-  text-align: center !important;
 }

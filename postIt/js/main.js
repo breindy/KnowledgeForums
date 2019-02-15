@@ -1,4 +1,4 @@
-var margin = { left: 100, right: 10, top: 50, bottom: 100};
+var margin = { left: 80, right: 10, top: 50, bottom: 100};
 
 var width = 1010 - margin.left - margin.right;
 var height = 705 - margin.top - margin.bottom;
@@ -75,8 +75,8 @@ d3.json("data/stickynotes.json").then(function(data){
 				.attr("y", function(d){
 					return y(d.priority + Math.random() + .2);
 				})
-				.attr("width", 40)
-				.attr("height", 40)
+				.attr("width", 45)
+				.attr("height", 45)
 				.attr("fill", function(d){
 					return d.color;
 				})
