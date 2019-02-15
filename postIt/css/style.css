@@ -16,6 +16,10 @@
 * {
   text-align: center;
 }
+
+.d3-tip li {
+  text-align: left;
+}
 /* .row div::after {
   content: '';
   display: block;

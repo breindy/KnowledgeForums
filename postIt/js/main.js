@@ -7,15 +7,25 @@ var height = 600 - margin.top - margin.bottom;
 d3.json("data/stickynotes.json").then(function(data){
 	console.log(data);
 
-			var tip = d3.tip().attr('class', 'd3-tip')
-			.html(function(d) {
-				var text = "<strong>Impact Area:</strong> " + d.impactName + "</br>";
-				text += "<strong>Category:</strong> " + d.category + "</br>";
-				text += "<strong>Priority:</strong> " + d.priority + "</br>";
-				text += "<strong>Difficulty:</strong> " + d.difficulty + "</br>";
-				text += "<strong>Description:</strong> " + d.postItText + "</br>";
-				return text;
-			});
+			var tip = d3.tip()
+				.attr('class', 'd3-tip')
+				.offset([-10, 0])
+				.html(function(d) {
+					d3.select(".d3-tip")
+						.style('background-color', d.color)
+						.style('color', 'white')
+						.style('text-align', 'left')
+						.style('max-width', '450px')
+						.style('font-weight', '300')
+						.style('letter-spacing', '1px')
+						.style('padding', '30px 50px')
+						.style('line-height', '1.3em');
+					return "<strong>Impact Area:</strong> " + d.impactName + "</br>" +
+						   "<strong>Category:</strong> " + d.category + "</br>" +
+						   "<strong>Priority:</strong> " + d.priority + "</br>" +
+						   "<strong>Difficulty:</strong> " + d.difficulty + "</br>" +
+						   "<strong>Description:</strong> " + d.postItText + "</br>";
+			})
 	
 		var x = d3.scaleLinear()
 			.domain([-1, 10])
@@ -63,7 +73,7 @@ d3.json("data/stickynotes.json").then(function(data){
 				
 	
 				.attr("y", function(d){
-					return y(d.priority + Math.random() + .5);
+					return y(d.priority + Math.random() + .2);
 				})
 				.attr("width", 40)
 				.attr("height", 40)

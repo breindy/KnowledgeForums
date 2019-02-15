@@ -6,7 +6,9 @@
 		"category": "Benefit (economic) to the community",
 		"priority": 4,
 		"difficulty": 7,
-		"postItText": ["Wag......", "Diversity numbers in companies, job/unemployment rate, tech skills gap narrowing", "Percent of people earning a living wage in a community increases"]
+		"postItText": ["<li>Wag......", 
+					   "Diversity numbers in companies, job/unemployment rate, tech skills gap narrowing", 
+					   "Percent of people earning a living wage in a community increases"]
 	},
 
 	{
@@ -16,7 +18,11 @@
 		"category": "Social Mobility",
 		"priority": 4,
 		"difficulty": 5,
-		"postItText": ["Measure changes in community economic health when a large influx of high tech jobs grow in a community", "Reduced dependency on social services in communities that increase computing jobs", "Tracking women and minorities employed in local CS companies", "Reduction in number of open/unfilled engineering and programming positions", "Tracking social mobility of current CS graduates"]
+		"postItText": ["<li>Measure changes in community economic health when a large influx of high tech jobs grow in a community", 
+					   "Reduced dependency on social services in communities that increase computing jobs", 
+					   "Tracking women and minorities employed in local CS companies", 
+					   "Reduction in number of open/unfilled engineering and programming positions", 
+					   "Tracking social mobility of current CS graduates"]
 	},
 
 	{
@@ -26,7 +32,11 @@
 		"category": "Increase diversity & decrease underrepresentation",
 		"priority": 5,
 		"difficulty": 3,
-		"postItText": ["Increase in non-traditional students and non-traditional pathways in workforce", "% of URMs passing the AP", "Reform hiring criteria to maximize diverse talent", "Increase in number of historically underrepresented groups in workforce", "% / # of URM in computing increases proportions", "Closing/Narrowing the gap in the shortage of engineers and programmers with a diverse workforce"]
+		"postItText": ["<li>Increase in non-traditional students and non-traditional pathways in workforce", 
+			"% of URMs passing the AP", "Reform hiring criteria to maximize diverse talent", 
+			"Increase in number of historically underrepresented groups in workforce", 
+			"% / # of URM in computing increases proportions", 
+			"Closing/Narrowing the gap in the shortage of engineers and programmers with a diverse workforce"]
 	},
 
 	{
@@ -36,7 +46,11 @@
 		"category": "Support Tech Companies and Tech Employees",
 		"priority": 6,
 		"difficulty": 0,
-		"postItText": ["Number of tech companies in El Paso increases", "Increase in number of job offers for new graduates (at UTEP)", "Increase in computing jobs attained by those reviewing computing credentials", "Texans are filling the jobs in engineering and programming", "Retention of URMs in computing professions increases"]
+		"postItText": ["<li>Number of tech companies in El Paso increases</li>", 
+				"Increase in number of job offers for new graduates (at UTEP)</li>", 
+				"Increase in computing jobs attained by those reviewing computing credentials</li>", 
+				"Texans are filling the jobs in engineering and programming</li>", 
+				"Retention of URMs in computing professions increases</li>"]
 	},
 
 	{
@@ -46,7 +60,9 @@
 		"category": "Instances of Community Engagement",
 		"priority": 0,
 		"difficulty": 6,
-		"postItText": ["Increased rates of volunteering/engagement with community", "Community reciprocal engagement with students", "How culturally responsive computing can engage students in local community?"]
+		"postItText": ["<li>Increased rates of volunteering/engagement with community</li>", 
+			"Community reciprocal engagement with students</li>", 
+			"How culturally responsive computing can engage students in local community?</li>"]
 	},
 
 	{
@@ -56,7 +72,13 @@
 		"category": "Rights and Responsibilities to participate in democracy",
 		"priority": 5,
 		"difficulty": 5,
-		"postItText": ["Justify ethical choices in digital life", "Students are able to ask informed questions about how their tech use impacts society and how societal tech impacts various populations", "Student ability to argue about impacts on democracy of tech", "Students are aware of the responsibilities as creators of technology to society", "% of students registering to vote & % of students (citizens) voting", "Students can explain impacts of technology across different groups/cultures/demographics", "Increased..... rate.... (es....."]
+		"postItText": ["<li>Justify ethical choices in digital life</li>", 
+			"Students are able to ask informed questions about how their tech use impacts society and how societal tech impacts various populations</li>", 
+			"Student ability to argue about impacts on democracy of tech</li>", 
+			"Students are aware of the responsibilities as creators of technology to society</li>", 
+			"% of students registering to vote & % of students (citizens) voting</li>", 
+			"Students can explain impacts of technology across different groups/cultures/demographics</li>", 
+			"Increased..... rate.... (es.....</li>"]
 	},
 
 	{
@@ -66,7 +88,11 @@
 		"category": "Understanding Impact",
 		"priority": 5,
 		"difficulty": 0,
-		"postItText": ["Students have agency in using and creating tech for societal (community) problems", "Student understanding of tech in society --> ways it's used and how to use it back", "Students are aware of dangers to democracy from technology", "Students understanding of algorithms in social networks", "Awareness of a core set of issues (tbd) and how a lack of awareness leads to inequitable outcomes"]
+		"postItText": ["<li>Students have agency in using and creating tech for societal (community) problems</li>",
+			 "Student understanding of tech in society --> ways it's used and how to use it back</li>", 
+			 "Students are aware of dangers to democracy from technology</li>", 
+			 "Students understanding of algorithms in social networks</li>", 
+			 "Awareness of a core set of issues (tbd) and how a lack of awareness leads to inequitable outcomes</li>"]
 	},
 
 	{
@@ -76,7 +102,10 @@
 		"category": "Self Efficacy/Ability",
 		"priority": 4,
 		"difficulty": 2,
-		"postItText": ["Increased desire to pursue civically oriented pursuits", "Students can design technology solutions to solve local problems", "Student self-efficacy and feelings of being able to impact society", "How students use CS to solve local civic issues?", "Students can navigate the positive opportunities and ethical challenges of digital life."]
+		"postItText": ["<li>Increased desire to pursue civically oriented pursuits</li>", 
+			"Students can design technology solutions to solve local problems</li>", 
+			"Student self-efficacy and feelings of being able to impact society</li>", 
+			"How students use CS to solve local civic issues?</li>", "Students can navigate the positive opportunities and ethical challenges of digital life."]
 	},
 
 	{
@@ -106,7 +135,7 @@
 		"category": "Voting",
 		"priority": 1,
 		"difficulty": 7,
-		"postItText": ["Increase the number of underrepresented individuals who vote", "More (and more diverse) students vote", "Increase the rate of voter turnout and participation in local and national elections"]
+		"postItText": ["<li>Increase the number of underrepresented individuals who vote", "More (and more diverse) students vote", "Increase the rate of voter turnout and participation in local and national elections"]
 	},
 
 	{
@@ -116,7 +145,7 @@
 		"category": "Private Sector Engagement",
 		"priority": 6,
 		"difficulty": 1,
-		"postItText": ["Seeing more young people question platforms and systems put into place", "....startups with a double-bottom line"]
+		"postItText": ["<li>Seeing more young people question platforms and systems put into place", "....startups with a double-bottom line"]
 	},
 
 	{
@@ -126,7 +155,7 @@
 		"category": "Community-based Curricula",
 		"priority": 8,
 		"difficulty": 1,
-		"postItText": ["Increase the number of community engagement projects by schools/districts", "Increase the number of community-based integrations in CS (consensible?)..."]
+		"postItText": ["<li>Increase the number of community engagement projects by schools/districts", "Increase the number of community-based integrations in CS (consensible?)..."]
 	},
 
 	{
@@ -156,7 +185,7 @@
 		"category": "Outcomes/evaluation",
 		"priority": 2,
 		"difficulty": 1,
-		"postItText": ["Evaluation: long-term tracking", "Outcomes", "Student voices at the end of programs and projects would reflect intended outcomes (Ex: I learned to collaborate by XX because YY.)"]
+		"postItText": ["<li>Evaluation: long-term tracking", "Outcomes", "Student voices at the end of programs and projects would reflect intended outcomes (Ex: I learned to collaborate by XX because YY.)"]
 	},
 
 	{
@@ -166,7 +195,7 @@
 		"category": "Relevance & Amount of Practice",
 		"priority": 3,
 		"difficulty": 0,
-		"postItText": ["What is the right amount of exposure to CT (all or 1 of 7) strategies to become proficient?", "Ability to problem-solve across curriculum/content"]
+		"postItText": ["<li>What is the right amount of exposure to CT (all or 1 of 7) strategies to become proficient?", "Ability to problem-solve across curriculum/content"]
 	},
 
 	{
@@ -176,7 +205,7 @@
 		"category": "Equity",
 		"priority": 5,
 		"difficulty": 0,
-		"postItText": ["Successful demographics", "Who are the A students? The C students? The D, F students?"]
+		"postItText": ["<li>Successful demographics", "Who are the A students? The C students? The D, F students?"]
 	},
 
 	{
@@ -186,7 +215,7 @@
 		"category": "People and Students",
 		"priority": 4,
 		"difficulty": 3,
-		"postItText": ["% increase of Latinx/Black/Native youth participating/applying for competitions and awards in CS (i.e. NCWIT, First, etc.)", "% increase of girls participating in entrepreneurship/innovation competitions", "Clear teacher pathways are identified for High School educators; certification process available across states", "Heat map of people with CS skills (does it span communities)"]
+		"postItText": ["<li>% increase of Latinx/Black/Native youth participating/applying for competitions and awards in CS (i.e. NCWIT, First, etc.)", "% increase of girls participating in entrepreneurship/innovation competitions", "Clear teacher pathways are identified for High School educators; certification process available across states", "Heat map of people with CS skills (does it span communities)"]
 	},
 
 	{
@@ -196,7 +225,7 @@
 		"category": "Industry",
 		"priority": 4,
 		"difficulty": 1,
-		"postItText": ["Increase in # of companies addressing wicked problems", "Concept map of wicked problems & potential solutions", "Number of CS patents to solve CS problems", "Number of new innovations produced with CS"]
+		"postItText": ["<li>Increase in # of companies addressing wicked problems", "Concept map of wicked problems & potential solutions", "Number of CS patents to solve CS problems", "Number of new innovations produced with CS"]
 	},
 
 	{
@@ -206,7 +235,7 @@
 		"category": "Curriculum",
 		"priority": 2,
 		"difficulty": 2,
-		"postItText": ["Increase in the number of CS+X programs across all major disciplinary areas (STEM, humanities, social sciences)", "Increase in the number of curricula that integrate CS and other disciplines", "All K-5 teachers receive CS or CT education via pre-service courses within social justice education framework"]
+		"postItText": ["<li>Increase in the number of CS+X programs across all major disciplinary areas (STEM, humanities, social sciences)", "Increase in the number of curricula that integrate CS and other disciplines", "All K-5 teachers receive CS or CT education via pre-service courses within social justice education framework"]
 	},
 
 	{
@@ -216,7 +245,7 @@
 		"category": "Community",
 		"priority": 1,
 		"difficulty": 4,
-		"postItText": ["CS-related projects that are helping to solve a community-identified problem", "Number of (or %) communities impacted by a locally CS-solved problem & represented --> which ones"]
+		"postItText": ["<li>CS-related projects that are helping to solve a community-identified problem", "Number of (or %) communities impacted by a locally CS-solved problem & represented --> which ones"]
 	},
 
 	{
@@ -226,7 +255,7 @@
 		"category": "Faculty Representation",
 		"priority": 4,
 		"difficulty": 5,
-		"postItText": ["More teachers of color in CS education", "Does faculty reflect community?"]
+		"postItText": ["<li>More teachers of color in CS education", "Does faculty reflect community?"]
 	},
 
 	{
@@ -236,7 +265,7 @@
 		"category": "Student Representation",
 		"priority": 4,
 		"difficulty": 5,
-		"postItText": ["Are students with disabilities included in CS classes?", "Proportion of CS students enrolled in CS courses who are female, low income, URM, disabled (participation)", "Does representation in the classroom = representation in the community?", "Indicators of student engagement, identity, agency, especially underrepresented students"]
+		"postItText": ["<li>Are students with disabilities included in CS classes?", "Proportion of CS students enrolled in CS courses who are female, low income, URM, disabled (participation)", "Does representation in the classroom = representation in the community?", "Indicators of student engagement, identity, agency, especially underrepresented students"]
 	},
 	
 	{
@@ -246,7 +275,7 @@
 		"category": "PD",
 		"priority": 3,
 		"difficulty": 1,
-		"postItText": ["Increasing teacher participation", "Every CS PD work with teachers around equity, biases", "Proportion of CS teachers in low income, high-URM population areas who are qualified to teach CS (quality)", "# of faculty who attend PD on incorporating social justice in the curriculum"]
+		"postItText": ["<li>Increasing teacher participation", "Every CS PD work with teachers around equity, biases", "Proportion of CS teachers in low income, high-URM population areas who are qualified to teach CS (quality)", "# of faculty who attend PD on incorporating social justice in the curriculum"]
 	},
 
 	{
@@ -256,7 +285,7 @@
 		"category": "Curriculum",
 		"priority": 2,
 		"difficulty": 3,
-		"postItText": ["Use of curriculum that includes inquiry-based units learning about social justice", "In teaching programming are accessible tools used?", "Does web design/dev course include accessible design?", "Pathways in ED: CTE vs. Academic", "Simplifying language on how we communicate about CS education to the uninformed", "Changing the way we develop CS curriculum making it more adaptable based on student feedback", "Are ethics, equity, and cultural sensitivity in the curriculum?"]
+		"postItText": ["<li>Use of curriculum that includes inquiry-based units learning about social justice", "In teaching programming are accessible tools used?", "Does web design/dev course include accessible design?", "Pathways in ED: CTE vs. Academic", "Simplifying language on how we communicate about CS education to the uninformed", "Changing the way we develop CS curriculum making it more adaptable based on student feedback", "Are ethics, equity, and cultural sensitivity in the curriculum?"]
 	},
 
 	{
@@ -266,7 +295,7 @@
 		"category": "Community",
 		"priority": 5,
 		"difficulty": 2,
-		"postItText": ["Are CS projects reflecting the needs of the community?", "% of Projects with other more/less fortunate communities", "CS projects in community?", "Proportion of schools that offer CS that are in areas of low income, rural, high URM population (access)"]
+		"postItText": ["<li>Are CS projects reflecting the needs of the community?", "% of Projects with other more/less fortunate communities", "CS projects in community?", "Proportion of schools that offer CS that are in areas of low income, rural, high URM population (access)"]
 	},
 
 	{
@@ -286,7 +315,7 @@
 		"category": "Students",
 		"priority": 1,
 		"difficulty": 3,
-		"postItText": ["Change in attitudes in students around social justice before the course and after the courses", "Increasing mentorships for students and faculty"]
+		"postItText": ["<li>Change in attitudes in students around social justice before the course and after the courses", "Increasing mentorships for students and faculty"]
 	},
 
 	{
@@ -296,7 +325,7 @@
 		"category": "Meaningful projects",
 		"priority": 3,
 		"difficulty": 2,
-		"postItText": ["Kids are creating individually meaningful projects", "Students being exposed to projects that promote collaboration and creativity"]
+		"postItText": ["<li>Kids are creating individually meaningful projects", "Students being exposed to projects that promote collaboration and creativity"]
 	},
 
 	{
@@ -306,7 +335,7 @@
 		"category": "Engagement",
 		"priority": 1,
 		"difficulty": 3,
-		"postItText": ["Teachers in post surveys report students to appear engaged and interested in lessons and activities", "Administrators and other family members report teaches and students (children) are engaged by CS/CT coursework", "Students in post-course/club survey report being engaged and empowered by curricula and activities"]
+		"postItText": ["<li>Teachers in post surveys report students to appear engaged and interested in lessons and activities", "Administrators and other family members report teaches and students (children) are engaged by CS/CT coursework", "Students in post-course/club survey report being engaged and empowered by curricula and activities"]
 	},
 
 	{
@@ -316,7 +345,7 @@
 		"category": "Expressions and Creativity Opportunities",
 		"priority": 2,
 		"difficulty": 3,
-		"postItText": ["Kids feel they can express themselves through CS practices and concepts", "Research in how students are able to express themselves through CS activities"]
+		"postItText": ["<li>Kids feel they can express themselves through CS practices and concepts", "Research in how students are able to express themselves through CS activities"]
 	},
 
 	{
@@ -326,7 +355,8 @@
 		"category": "Rankings and Referrals",
 		"priority": 3,
 		"difficulty": 0,
-		"postItText": ["Students rank favorite courses at their school in terms of autonomy and engagement", "Student recommendation rate (would you recommend this course/club/etc. to a friend?)"]
+		"postItText": ["<li>Students rank favorite courses at their school in terms of autonomy and engagement</li>", 
+			"<li>Student recommendation rate (would you recommend this course/club/etc. to a friend?)</li>"]
 	},
 	
 	{
@@ -336,6 +366,6 @@
 		"category": "Self-rating Happiness",
 		"priority": 1,
 		"difficulty": 1,
-		"postItText": "Inter-group parity in self-described affective happiness measures (diability cs. mainstream; ethnicity; gender)"
+		"postItText": "<li>Inter-group parity in self-described affective happiness measures (diability cs. mainstream; ethnicity; gender)</li>"
 	}
 ]
