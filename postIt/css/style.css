@@ -113,7 +113,7 @@ svg .x-axis path::before {
 }
 
 @media only screen and (max-width: 1200px) {
-  #chart-area, .color-group-wrapper {
+  #chart-area, .color-group-wrapper, .categoryBlocks_wrapper {
     display: none;
   }
 }
@@ -139,29 +139,15 @@ svg .x-axis path::before {
   align-items: center;
   justify-content: center;
   flex-direction: column;
-  /* vertical-align: middle;  */
 }
-#blue {
-  background-color: #55b5f4;
-}
-#green {
-  background-color: #54a98f;
-}
-#purple {
-  background-color: #8e7bc1;
-}
-#pink {
-  background-color: #ec8cba;
-}
-#red {
-  background-color: #df6769;
-}
-#orange {
-  background-color: #d98b3f;
-}
-#yellow {
-  background-color: #efc13d;
-}
+
+#blue { background-color: #55b5f4; }
+#green { background-color: #54a98f; }
+#purple { background-color: #8e7bc1; }
+#pink { background-color: #ec8cba; }
+#red { background-color: #df6769; }
+#orange { background-color: #d98b3f; }
+#yellow { background-color: #efc13d; }
 
 /* Responsiveness of Raninbow Category Blocks Header */
 @media only screen and (max-width: 1320px) {
