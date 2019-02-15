@@ -42,7 +42,14 @@ d3.json("data/stickynotes.json").then(function(data){
 					.attr("transform", "translate(" + margin.left + ", " + margin.top + ")");
 	
 		g.call(tip);
-	
+		
+		var svg = d3.select("#color-legend").append("svg")
+					.attr("width", 300)
+					.attr("height", 300);
+
+		svg.append("g")
+			.attr("class", "legendOrdinal");
+
 		var xAxis = d3.axisBottom(x)
 			.ticks(0);
 		
