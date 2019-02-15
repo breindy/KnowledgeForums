@@ -3,6 +3,7 @@ var margin = { left: 80, right: 10, top: 50, bottom: 100};
 var width = 1010 - margin.left - margin.right;
 var height = 705 - margin.top - margin.bottom;
 
+var start_end_colors = ["#E5ECFF", "#CCD8FF", "#B3C5FF", "#809EFF", "#4D77FF"];
 
 d3.json("data/stickynotes.json").then(function(data){
 	console.log(data);
