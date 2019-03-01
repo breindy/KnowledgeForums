@@ -54,47 +54,47 @@ h4 {
 #group1 {
   top: 0;
   left: 0;
-  background: #E5ECFF;
+  background: #EFF3FF;
 }
 #group2 {
   top: 0;
   left: 300px;
-  background: #CCD8FF;
+  background: #DFE7FF;
 }
 #group3 {
   top: 0;
   left: 600px;
-  background: #B3C5FF;
+  background: #C0CFFF;
 }
 #group4 {
   top: 185px;
   left: 0px;
-  background: #CCD8FF;
+  background: #DFE7FF;
 }
 #group5 {
   top: 185px;
   left: 300px;;
-  background: #B3C5FF;
+  background: #C0CFFF;
 }
 #group6 {
   top: 185px;
   left: 600px;
-  background: #809EFF;
+  background: #A0B6FF;
 }
 #group7 {
   top: 370px;
   left: 0px;
-  background: #B3C5FF;
+  background: #C0CFFF;
 }
 #group8 {
   top: 370px;
   left: 300px;
-  background: #809EFF;
+  background: #A0B6FF;
 }
 #group9 {
   top: 370px;
   left: 600px;
-  background: #4D77FF;
+  background: #809EFF;
 }
 
 svg .x-axis path::before {
