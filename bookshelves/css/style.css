@@ -1,6 +1,6 @@
 #chart-area svg {
-	margin-left: auto;
-    margin-right: auto;
+	/* margin-left: auto;
+    margin-right: auto; */
     display: block;
 }
 
@@ -21,21 +21,13 @@
 	fill: salmon;
 
 }
-.row div {
-	border-radius: 5px;
-	height: 210px;
-	width: 655px;
-	border: solid 30px #b9a48e;
+.bookshelf {
+	width: 786px;
+	height: 1200px;
 	background: #a08464;
+	border: solid 30px #b9a48e;
 	margin: auto;
 }
-#citizenship {
-	width: 1140px;
+.bookshelf div {
+	border-bottom: solid #b9a48e 10px;
 }
-#competencies, #economic, #school, #technological {
-	width: 540px;
-}
-#equity {
-	width: 900px;
-}
-

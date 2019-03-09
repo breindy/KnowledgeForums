@@ -21,8 +21,8 @@ d3.json("data/rppforcs.json").then(function(data){
 	
 	var g = d3.select('#competencies')
 		.append('svg')
-			.attr('width', data.length * 120)
-			.attr('height', 250)
+			.attr('width', 726)
+			.attr('height', 150)
 			.attr('fill', '#a08464');
 	
 	g.call(tip);
@@ -37,7 +37,7 @@ d3.json("data/rppforcs.json").then(function(data){
 			.attr('x', function(d, i) {
 				return (i * 120);
 			})
-			.attr('y', 0)
+			.attr('y', 5)
 			.attr('width', 120)
 			.attr('height', 150);
 

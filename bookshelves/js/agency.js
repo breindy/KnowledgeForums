@@ -16,8 +16,8 @@ d3.json("data/rppforcs.json").then(function(data){
 	
 	var g = d3.select('#agency')
 		.append('svg')
-			.attr('width', 600)
-			.attr('height', 200)
+			.attr('width', 726)
+			.attr('height', 150)
 			.attr('fill', '#a08464');
 	
 	g.call(tip);

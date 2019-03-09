@@ -21,8 +21,8 @@ d3.json("data/rppforcs.json").then(function(data){
 	
 	var g = d3.select('#technological')
 		.append('svg')
-			.attr('width', data.length * 120)
-			.attr('height', 300)
+			.attr('width', 726)
+			.attr('height', 150)
 			.attr('fill', '#a08464');
 	
 	g.call(tip);

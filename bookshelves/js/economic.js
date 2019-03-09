@@ -22,8 +22,8 @@ d3.json("data/rppforcs.json").then(function(data){
 	
 	var g = d3.select('#economic')
 		.append('svg')
-			.attr('width', data.length * 120)
-			.attr('height', 200)
+			.attr('width', 726)
+			.attr('height', 150)
 			.attr('fill', '#a08464');
 	
 	g.call(tip);
