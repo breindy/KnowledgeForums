@@ -27,7 +27,67 @@
 	background: #a08464;
 	border: solid 30px #b9a48e;
 	margin: auto;
+	margin-top: 100PX;
 }
 .bookshelf div {
 	border-bottom: solid #b9a48e 10px;
 }
+
+/* ===== Rainbow Category Blocks Header ====== */
+.categoryBlocks_wrapper {
+	width: 1050px;
+	height: 100px;
+	margin: auto;
+	border: none;
+  }
+  .categoryBlock {
+	width: 150px;
+	height: 150px;
+	float: left;
+	padding: 25px 20px;
+	text-align: center;
+	color: white;
+  }
+  .categoryBlock p {
+	font-size: 18px;
+	display: flex;
+	align-items: center;
+	justify-content: center;
+	flex-direction: column;
+  }
+  
+  #blue { background-color: #55b5f4; }
+  #green { background-color: #54a98f; }
+  #purple { background-color: #8e7bc1; }
+  #pink { background-color: #ec8cba; }
+  #red { background-color: #df6769; }
+  #orange { background-color: #d98b3f; }
+  #yellow { background-color: #efc13d; }
+  
+  /* Responsiveness of Raninbow Category Blocks Header */
+  @media only screen and (max-width: 1320px) {
+	.categoryBlocks_wrapper {
+	  width: 840px;
+	}
+	.categoryBlock {
+	  width: 120px;
+	  height: 120px;
+	  padding: 25px 10px;
+	}
+	.categoryBlock p {
+	  font-size: 14px;
+	}
+	.yourResultsInner {
+	  width: 360px;
+	}
+  }
+  @media only screen and (max-width: 1200px) {
+	.categoryBlock {
+	  padding: 20px 10px;
+	}
+  }
+  @media only screen and (max-width: 1024) {
+	.categoryBlocks_wrapper {
+	 display: none;
+	}
+  }

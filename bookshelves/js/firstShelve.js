@@ -5,13 +5,13 @@ var height = 300 - margin.top - margin.bottom;
 
 d3.json("data/rppforcs.json").then(function(data){
 	data = data.filter(function(d){
-		return d.impactArea == 'Citizenship and Civic Engagement';
+		return d.levelOfEvidence == 3;
 	});
 	console.log(data.length);
 
 	var tip = d3.tip()
 		.attr('class', 'd3-tip')
-			.html(function(d) { while (d.impactArea == "Citizenship and Civic Engagement")
+			.html(function(d) { while (d.levelOfEvidence == 3)
                 {
                     var text = "<p>" + d.rationaleStatement + "</p><br>";
 				    text += "<p>Level of evidence: " + d.levelOfEvidence + "</p><br>";
@@ -19,7 +19,7 @@ d3.json("data/rppforcs.json").then(function(data){
                 }	
 			})
 	
-	var g = d3.select('#citizenship')
+	var g = d3.select('#firstShelve')
 		.append('svg')
 			.attr('width', 726)
 			.attr('height', 150)
@@ -29,7 +29,7 @@ d3.json("data/rppforcs.json").then(function(data){
 
 	var rectangles = g.selectAll("rect")
 		.data(data.filter(function(d){
-			return d.impactArea === 'Citizenship and Civic Engagement';
+			return d.levelOfEvidence === 3;
 		}));
 
 	rectangles.enter()
@@ -47,21 +47,7 @@ d3.json("data/rppforcs.json").then(function(data){
 					return (i * 120);
 				})
 				.attr('y', 40)
-				.attr('width', function(d) {
-					if (d.levelOfEvidence == 0) {
-						return 10;
-					}
-					if (d.levelOfEvidence == 1) {
-						return 40;
-					}
-					if (d.levelOfEvidence == 2) {
-						return (40 * 2);
-					}
-					if (d.levelOfEvidence == 3) {
-						return (40 * 3 - 2);
-					}
-					
-				})
+				.attr('width', 118)
 				.attr('height', 110)
 				.attr('fill', function(d) {
 					return d.color;
@@ -77,20 +63,7 @@ d3.json("data/rppforcs.json").then(function(data){
 			return (i * 120);
 		})
 		.attr('y', 40)
-		.attr('width', function(d) {
-			if (d.levelOfEvidence == 0) {
-				return 5;
-			}
-			if (d.levelOfEvidence == 1) {
-				return 20;
-			}
-			if (d.levelOfEvidence == 2) {
-				return (20 * 2);
-			}
-			if (d.levelOfEvidence == 3) {
-				return (20 * 3);
-			}
-		})
+		.attr('width', 118)
 		.attr('height', 110)
 		.attr('fill', function(d){
 			return '#6AB39D';
