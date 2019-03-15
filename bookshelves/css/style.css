@@ -23,16 +23,81 @@
 }
 .bookshelf {
 	width: 786px;
-	height: 1200px;
+	height: 1100px;
 	background: #a08464;
 	border: solid 30px #b9a48e;
 	margin: auto;
 	margin-top: 100PX;
 }
-.bookshelf div {
+#firstShelve, #secondShelve,
+#thirdShelve, #fourthShelve,
+#fifthShelve, #sixthShelve,
+#seventhShelve {
+	min-height: 150px;
 	border-bottom: solid #b9a48e 10px;
 }
 
+/* ========== Magazine Boxes =========== */
+.bookshelf .magBox {
+	position: relative;
+	float:left;
+	width: 110px;
+	height: 125px;
+	border-left: 8px #d6d6d6 solid;
+	border-right: 8px #d6d6d6 solid;
+	border-bottom: 50px #d6d6d6 solid;
+	border-radius: 3px;
+	margin: 14px 6px 0 5px;
+}
+
+.bookshelf .magBoxTag {
+	position: absolute;
+	border: none;
+	width: 70px;
+	height: 25px;
+	top: 90px;
+	left: 10px;
+}
+/* shelf float clearing */
+#secondShelve .magBox:first-child,
+#thirdShelve .magBox:first-child,
+#fourthShelve .magBox:first-child,
+#fifthShelve .magBox:first-child,
+#sixthShelve .magBox:first-child,
+#seventhShelve .magBox:first-child {
+	clear: left;
+}
+/* ====== Shelf specific positions ======= */
+
+/* first shelve */
+#firstShelve .magBox {
+	/* top: 445px; */
+}
+/* second shelve */
+#secondShelve .magBox{
+
+	/* top: 610px; */
+}
+/* third shelve */
+#thirdShelve .magBox {
+	/* top: 775px; */
+}
+/* fourth shelve */
+#fourthShelve .magBox {
+	/* top: 940px; */
+}
+/* fifth shelve */
+#fifthShelve .magBox {
+	/* top: 1105px; */
+}
+/* sixth shelve */
+#sixthShelve .magBox {
+	/* top: 1270px; */
+}
+/* seventh shelve */
+#seventhShelve .magBox {
+	/* top: 1360px; */
+}
 /* ===== Rainbow Category Blocks Header ====== */
 .categoryBlocks_wrapper {
 	width: 1050px;
